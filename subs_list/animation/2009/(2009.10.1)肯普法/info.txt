@@ -1,5 +1,0 @@
-﻿chs: 肯普法
-cht: 肯普法
-jp: けんぷファー
-en: Kämpfer
-rome: Kenpufa

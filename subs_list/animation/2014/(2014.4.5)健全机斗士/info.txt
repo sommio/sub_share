@@ -1,5 +1,0 @@
-﻿chs: 健全机斗士(乳)
-cht: 健全機斗士(乳)
-jp: 健全ロボ ダイミダラー
-en: Daimidaler the Sound Robot
-rome: Kenzen Robo Daimidaler

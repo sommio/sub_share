@@ -1,5 +1,0 @@
-﻿chs: Muv-Luv Alternative
-cht: Muv-Luv Alternative
-jp: マブラヴ オルタネイティヴ
-en: Muv-Luv Alternative
-rome: Muv-Luv Alternative

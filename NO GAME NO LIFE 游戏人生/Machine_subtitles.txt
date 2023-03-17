@@ -1,0 +1,24 @@
+﻿01.Beginner 外行人.th.zh-Hans.srt
+01.Beginner 外行人.th.zh-Hant.srt
+02.Challenger 挑战者.th.zh-Hans.srt
+02.Challenger 挑战者.th.zh-Hant.srt
+03.Expert 老手.th.zh-Hans.srt
+03.Expert 老手.th.zh-Hant.srt
+04.Grand Master 国王.th.zh-Hans.srt
+04.Grand Master 国王.th.zh-Hant.srt
+05.Weak Square 布局.th.zh-Hans.srt
+05.Weak Square 布局.th.zh-Hant.srt
+06.Interesting 一步.th.zh-Hans.srt
+06.Interesting 一步.th.zh-Hant.srt
+07.Sacrifice 弃子.th.zh-Hans.srt
+07.Sacrifice 弃子.th.zh-Hant.srt
+08.Fake End 起死回生.th.zh-Hans.srt
+08.Fake End 起死回生.th.zh-Hant.srt
+09.Sky Walk 解离法.th.zh-Hans.srt
+09.Sky Walk 解离法.th.zh-Hant.srt
+10.Blue Rose 指向法.th.zh-Hans.srt
+10.Blue Rose 指向法.th.zh-Hant.srt
+11.Killing Giant 诱导法.th.zh-Hans.srt
+11.Killing Giant 诱导法.th.zh-Hant.srt
+12.Rule Number 10 收束法.th.zh-Hans.srt
+12.Rule Number 10 收束法.th.zh-Hant.srt

@@ -1,5 +1,0 @@
-﻿chs: 清恋
-cht: 清戀
-jp: セイレン
-en: Seiren
-rome: Seiren

@@ -1,5 +1,0 @@
-﻿chs: 血界战线 & BEYOND
-cht: 血界戰線 & BEYOND
-jp: 血界戦線 & BEYOND
-en: Sensen & Beyond
-rome: Sensen & Beyond 

@@ -1,5 +1,0 @@
-﻿chs: 神薙
-cht: 神薙
-jp: かんなぎ
-en: Kannagi: Crazy Shrine Maidens
-rome: Kannagi

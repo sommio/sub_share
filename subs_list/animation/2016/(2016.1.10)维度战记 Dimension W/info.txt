@@ -1,5 +1,0 @@
-﻿chs: Dimension W ～维度战记～
-cht: Dimension W ～維度戰記～
-jp: ディメンション W
-en: Dimension W
-rome: Dimension W

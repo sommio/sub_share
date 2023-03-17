@@ -1,5 +1,0 @@
-﻿chs: 博多豚骨拉面团
-cht: 博多豚骨拉麵團
-jp: 博多豚骨ラーメンズ
-en: Hakata Tonkotsu Ramens
-rome: Hakata Tonkotsu Ramens

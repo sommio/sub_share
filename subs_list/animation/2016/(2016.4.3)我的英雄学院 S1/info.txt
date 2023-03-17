@@ -1,5 +1,0 @@
-﻿chs: 我的英雄学院(第1季)
-cht: 我的英雄學院(第1季)
-jp: 僕のヒーローアカデミア S1
-en: My Hero Academia S1
-rome: Boku no Hīrō Academia S1

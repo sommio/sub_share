@@ -1,5 +1,0 @@
-﻿chs: K/Project K(第1季)
-cht: K/Project K(第1季)
-jp: K/Project K
-en: K/Project K
-rome: K/Project K

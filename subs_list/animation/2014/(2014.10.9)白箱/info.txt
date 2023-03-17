@@ -1,5 +1,0 @@
-﻿chs: 白箱
-cht: 白箱
-jp: シロバコ
-en: Shirobako
-rome: Shirobako

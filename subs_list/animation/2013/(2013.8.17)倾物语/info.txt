@@ -1,5 +1,0 @@
-﻿chs: 倾物语
-cht: 傾物語
-jp: 傾物語
-en: Kabukimonogatari
-rome: Kabukimonogatari

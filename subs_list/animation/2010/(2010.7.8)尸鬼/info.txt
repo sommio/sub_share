@@ -1,5 +1,0 @@
-﻿chs: 尸鬼
-cht: 尸鬼
-jp: 屍鬼
-en: Shiki
-rome: Shiki

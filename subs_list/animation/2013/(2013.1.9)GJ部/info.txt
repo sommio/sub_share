@@ -1,5 +1,0 @@
-﻿chs: GJ部
-cht: GJ部
-jp: GJ部
-en: GJ Club
-rome: Gujjo bu

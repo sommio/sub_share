@@ -1,5 +1,0 @@
-﻿chs: 租借女友
-cht: 租借女友
-jp: 彼女、お借りします
-en: Rent-A-Girlfriend
-rome: Kanojo Okarishimasu

@@ -1,5 +1,0 @@
-﻿chs: Rewrite
-cht: Rewrite
-jp: リライト
-en: Rewrite
-rome: Riraito

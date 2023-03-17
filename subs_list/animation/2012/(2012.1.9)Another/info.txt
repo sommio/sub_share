@@ -1,5 +1,0 @@
-﻿chs: Another
-cht: Another
-jp: Another
-en: Another
-rome: Anazā

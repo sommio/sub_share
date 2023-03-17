@@ -1,5 +1,0 @@
-﻿chs: ISLAND
-cht: ISLAND
-jp:  ISLAND
-en:  ISLAND
-rome:  Airando

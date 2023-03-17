@@ -1,5 +1,0 @@
-﻿chs: 法兰雀丝卡
-cht: 法蘭雀絲卡
-jp: フランチェスカ
-en: Francesca
-rome: Francesca

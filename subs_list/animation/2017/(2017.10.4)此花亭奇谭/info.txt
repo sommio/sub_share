@@ -1,5 +1,0 @@
-﻿chs: 此花亭奇谭
-cht: 此花亭奇譚
-jp: 此花亭奇譚
-en: Konohana Kitan
-rome: Konohana Kitan

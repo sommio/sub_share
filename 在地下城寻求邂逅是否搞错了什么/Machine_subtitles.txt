@@ -1,0 +1,26 @@
+﻿01.贝尔·克朗尼-冒险者.th.zh-Hans.srt
+01.贝尔·克朗尼-冒险者.th.zh-Hant.srt
+02.Monster Philia-怪物祭.th.zh-Hans.srt
+02.Monster Philia-怪物祭.th.zh-Hant.srt
+03.Hestia Knife-女神之刃.th.zh-Hans.srt
+03.Hestia Knife-女神之刃.th.zh-Hant.srt
+04.支援者-弱者.th.zh-Hans.srt
+04.支援者-弱者.th.zh-Hant.srt
+05.Grimoire-魔导书.th.zh-Hans.srt
+05.Grimoire-魔导书.th.zh-Hant.srt
+06.莉莉露卡·厄德-理由.th.zh-Hans.srt
+06.莉莉露卡·厄德-理由.th.zh-Hant.srt
+07.艾丝·华伦斯坦-剑姬.th.zh-Hans.srt
+07.艾丝·华伦斯坦-剑姬.th.zh-Hant.srt
+08.Argonaut-英雄愿望.th.zh-Hans.srt
+08.Argonaut-英雄愿望.th.zh-Hant.srt
+09.韦尔夫·克洛佐-锻冶师.th.zh-Hans.srt
+09.韦尔夫·克洛佐-锻冶师.th.zh-Hant.srt
+10.Pass Parade-怪物进献.th.zh-Hans.srt
+10.Pass Parade-怪物进献.th.zh-Hant.srt
+11.Under Resort-迷宫的乐园.th.zh-Hans.srt
+11.Under Resort-迷宫的乐园.th.zh-Hant.srt
+12.Show-恶意.th.zh-Hans.srt
+12.Show-恶意.th.zh-Hant.srt
+13.Familiar Myth-眷族物语.th.zh-Hans.srt
+13.Familiar Myth-眷族物语.th.zh-Hant.srt

@@ -1,5 +1,0 @@
-﻿chs: 花物语
-cht: 花物語
-jp: 花物語
-en: Hanamonogatari
-rome: Hanamonogatari

@@ -1,5 +1,0 @@
-﻿chs: 没有心跳的少女 Beatless
-cht: 沒有心跳的少女 Beatless
-jp: ビートレス
-en: Beatless
-rome: Beatless

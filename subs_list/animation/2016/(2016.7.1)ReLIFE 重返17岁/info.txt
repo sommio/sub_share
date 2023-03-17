@@ -1,5 +1,0 @@
-﻿chs: ReLIFE 重返17岁
-cht: ReLIFE 重返17歲
-jp: ReLIFE
-en: ReLIFE
-rome: ReLIFE

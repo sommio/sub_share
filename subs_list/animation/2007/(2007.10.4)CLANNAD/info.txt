@@ -1,5 +1,0 @@
-﻿chs: CLANNAD
-cht: CLANNAD
-jp: クラナド
-en: CLANNAD
-rome: CLANNAD

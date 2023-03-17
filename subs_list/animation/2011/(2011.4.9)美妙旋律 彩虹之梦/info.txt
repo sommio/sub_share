@@ -1,5 +1,0 @@
-﻿chs: 美妙旋律 彩虹之梦
-cht: 星光少女 極光之夢
-jp: プリティーリズム・オーロラドリーム
-en: Pretty Rhythm Aurora Dream
-rome: Puriti Rizumu Orora Dorimu

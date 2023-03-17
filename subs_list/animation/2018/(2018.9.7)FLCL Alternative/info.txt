@@ -1,5 +1,0 @@
-﻿chs: FLCL Alternative
-cht: FLCL Alternative
-jp: フリクリ オルタナ
-en: FLCL Alternative
-rome: FLCL Alternative

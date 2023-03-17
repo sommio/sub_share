@@ -1,5 +1,0 @@
-﻿chs: 鬼平
-cht: 鬼平
-jp: 鬼平
-en: ONIHEI
-rome: ONIHEI

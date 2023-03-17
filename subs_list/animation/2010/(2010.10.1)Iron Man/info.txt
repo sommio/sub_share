@@ -1,5 +1,0 @@
-﻿chs: Iron Man
-cht: Iron Man
-jp: Iron Man
-en: Iron Man
-rome: Iron Man

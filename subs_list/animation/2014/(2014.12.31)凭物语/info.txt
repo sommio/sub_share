@@ -1,5 +1,0 @@
-﻿chs: 凭物语
-cht: 憑物語
-jp: 憑物語
-en: Tsukimonogatari
-rome: Tsukimonogatari

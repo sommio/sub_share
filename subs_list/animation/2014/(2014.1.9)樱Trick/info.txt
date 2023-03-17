@@ -1,5 +1,0 @@
-﻿chs: 樱Trick
-cht: 櫻Trick
-jp: 桜Trick
-en: Sakura Trick
-rome: Sakura Trick

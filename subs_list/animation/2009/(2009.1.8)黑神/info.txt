@@ -1,5 +1,0 @@
-﻿chs: 黑神
-cht: 黑神
-jp: 黒神
-en: Black God
-rome: Kurokami

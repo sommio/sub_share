@@ -1,0 +1,13 @@
+﻿1-1.R_B ～BLAZE～ #1.th.zh-Hant.srt
+1-2.R_B ～BLAZE～ #2.th.zh-Hant.srt
+2-1.SIDE_BLUE ～猶如天狼～ #1.th.zh-Hant.srt
+2-2.SIDE_BLUE ～猶如天狼～ #2.th.zh-Hant.srt
+3-1.SIDE_GREEN ～覆寫世界～ #1.th.zh-Hant.srt
+3-2.SIDE_GREEN ～覆寫世界～ #2.th.zh-Hant.srt
+4-1.Lost Small World ～牢籠的彼端～ #1.th.zh-Hant.srt
+4-2.Lost Small World ～牢籠的彼端～ #2.th.zh-Hant.srt
+5-1.紅之記憶～BURN～ #1.th.zh-Hant.srt
+5-2.紅之記憶～BURN～ #2.th.zh-Hant.srt
+6-1.Circle Vision ～Nameless Song～ #1.th.zh-Hant.srt
+6-2.Circle Vision ～Nameless Song～ #2.th.zh-Hant.srt
+07.THE 偶像·K.th.zh-Hant.srt

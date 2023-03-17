@@ -1,5 +1,0 @@
-﻿chs: 幻想嘉年华
-cht: 幻想嘉年華
-jp: カーニバル　ファンタズム
-en: Carnival Phantasm
-rome: Carnival Phantasm

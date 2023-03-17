@@ -1,5 +1,0 @@
-﻿chs: A频道
-cht: A頻道
-jp: Aチャンネル
-en: A Channel
-rome: Ē Channeru

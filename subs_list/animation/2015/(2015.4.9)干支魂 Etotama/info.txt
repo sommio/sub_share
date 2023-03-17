@@ -1,5 +1,0 @@
-﻿chs: 干支魂 Etotama
-cht: 干支魂 Etotama
-jp: えとたま
-en: Etotama
-rome: Etotama

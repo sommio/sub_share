@@ -1,5 +1,0 @@
-﻿chs: 飞翔的魔女
-cht: 飛翔的魔女
-jp: ふらいんぐうぃっち
-en: Flying Witch
-rome: Furaingu Uitchi

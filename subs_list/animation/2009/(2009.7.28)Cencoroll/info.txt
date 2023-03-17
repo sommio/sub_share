@@ -1,5 +1,0 @@
-﻿chs: Cencoroll
-cht: Cencoroll
-jp: センコロール
-en: Cencoroll
-rome: Cencoroll

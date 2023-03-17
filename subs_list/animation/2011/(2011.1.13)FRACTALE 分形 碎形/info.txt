@@ -1,5 +1,0 @@
-﻿chs: Fractale/分形/碎形
-cht: Fractale/分形/碎形
-jp: フラクタル
-en: Fractale
-rome: Fractale

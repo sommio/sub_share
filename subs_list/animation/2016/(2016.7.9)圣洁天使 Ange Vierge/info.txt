@@ -1,5 +1,0 @@
-﻿chs: 圣洁天使
-cht: 圣潔天使
-jp: アンジュ・ヴィエルジュ
-en: Ange Vierge
-rome: Ange Vierge
