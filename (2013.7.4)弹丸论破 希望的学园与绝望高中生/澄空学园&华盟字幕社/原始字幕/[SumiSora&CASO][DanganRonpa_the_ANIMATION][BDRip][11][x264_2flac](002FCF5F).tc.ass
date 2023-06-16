@@ -8,20 +8,6 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Timer: 100.0000
-Script Updated By: sommio
-Comment: 字体调整
-Comment: 字体 “方正基础像素” -> “Zpix” 避免繁体回退及提高可读性
-Comment: AlterEgo, AlterEgoS, AlterEgoCS 样式字体大小 18 -> 15
-Comment:
-Comment: 屏幕字调整
-Comment: EP02 “舞　　　　园” -> “舞　　　　 园” 添加一空格避免跟画面混合
-Comment: EP08 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “大　　　神” ->  “大　　　 神” 添加一空格避免跟画面混合
-Comment: EP11 “\fnZpix\b1\fs30” ->  “\fnZpix\b1\fs28” 避免跟画面混合
-Comment: 
-Comment: 对话符号编辑
-Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,7 +41,7 @@ Dialogue: 0,0:00:14.16,0:00:16.20,Default,,0,0,0,,然而並沒有留給我們整
 Dialogue: 0,0:00:16.51,0:00:20.55,Default,,0,0,0,,新一輪學級裁判又近在眼前了
 Dialogue: 0,0:00:22.60,0:00:24.27,Default,,0,0,0,,由於霧切同學平安無事
 Dialogue: 0,0:00:24.70,0:00:29.28,Default,,0,0,0,,所以可以確認受害者是第十六名高中生  {\c&H12BEFA&\3c&H115686&}戰刃骸
-Dialogue: 0,0:00:24.54,0:00:26.00,TIPSYahei,,0,0,0,,{\fnZpix\b1\fs28\c&H060411&\move(272.4,226,630.4,226,26,1444)}{\blur0\t(\blur3)}霧　　　　　　切
+Dialogue: 0,0:00:24.54,0:00:26.00,TIPSYahei,,0,0,0,,{\fn方正基础像素\b1\fs30\c&H060411&\move(272.4,226,630.4,226,26,1444)}{\blur0\t(\blur3)}霧　　　　　　切
 Dialogue: 0,0:00:33.24,0:00:39.45,Default,,0,0,0,,我們必須揭開這個身份完全不明的同級生被害的真相
 Dialogue: 0,0:00:46.23,0:00:49.04,Default,,0,0,0,,霧切同學  你之前都去哪裡了啊
 Dialogue: 0,0:00:49.17,0:00:50.45,Default,,0,0,0,,{\c&H12BEFA&\3c&H115686&}宿舍區的2樓
@@ -351,8 +337,8 @@ Dialogue: 0,0:22:51.65,0:23:00.70,Default,,0,0,0,,活著進入希望峰學園的
 Dialogue: 0,0:23:01.02,0:23:04.19,Default,,0,0,0,,究竟為什麼會變成這樣的呢
 Dialogue: 0,0:23:05.85,0:23:10.70,Default,,0,0,0,,吃我的口水吧  給我投胎去呀
 Dialogue: 0,0:23:12.87,0:23:15.67,Default,,0,0,0,,我要和大家一起從這裡出去！
-Dialogue: 0,0:10:47.29,0:10:53.04,Title,,0,0,0,,{\an3\fnZpix\b1\2c&H000000&\3c&H000000&\pos(466,261)\4c&H000000&}{\k14}苗{\k14}木{\k14}同{\k14}学{\k14}被{\k14}认{\k14}定{\k14}为{\k14}犯{\k14}罪{\k14}者{\k14}。
-Dialogue: 0,0:10:50.00,0:10:53.04,Title,,0,0,0,,{\an3\fnZpix\b1\2c&H000000&\3c&H000000&\pos(406,353)\4c&H000000&}{\k19}开{\k19}始{\k19}执{\k19}行{\k19}惩{\k19}罚{\k19}。
+Dialogue: 0,0:10:47.29,0:10:53.04,Title,,0,0,0,,{\an3\fn方正基础像素\b1\2c&H000000&\3c&H000000&\pos(466,261)\4c&H000000&}{\k14}苗{\k14}木{\k14}同{\k14}学{\k14}被{\k14}认{\k14}定{\k14}为{\k14}犯{\k14}罪{\k14}者{\k14}。
+Dialogue: 0,0:10:50.00,0:10:53.04,Title,,0,0,0,,{\an3\fn方正基础像素\b1\2c&H000000&\3c&H000000&\pos(406,353)\4c&H000000&}{\k19}开{\k19}始{\k19}执{\k19}行{\k19}惩{\k19}罚{\k19}。
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,——————————EDJP——————————
 Dialogue: 0,0:23:20.33,0:23:25.87,EDJP,,0,0,0,,{\frz-90\pos(30,176)}「君の望む物はなに？」耳鳴り  嘘みたいな話
 Dialogue: 0,0:23:25.87,0:23:29.79,EDJP,,0,0,0,,{\frz-90\pos(30,176)}どうやらボクの世界はバグってしまいました

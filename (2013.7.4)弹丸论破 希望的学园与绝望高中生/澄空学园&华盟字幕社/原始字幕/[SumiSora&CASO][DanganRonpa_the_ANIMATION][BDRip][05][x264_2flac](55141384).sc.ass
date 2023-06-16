@@ -8,20 +8,6 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Timer: 100.0000
-Script Updated By: sommio
-Comment: 字体调整
-Comment: 字体 “方正基础像素” -> “Zpix” 避免繁体回退及提高可读性
-Comment: AlterEgo, AlterEgoS, AlterEgoCS 样式字体大小 18 -> 15
-Comment:
-Comment: 屏幕字调整
-Comment: EP02 “舞　　　　园” -> “舞　　　　 园” 添加一空格避免跟画面混合
-Comment: EP08 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “大　　　神” ->  “大　　　 神” 添加一空格避免跟画面混合
-Comment: EP11 “\fnZpix\b1\fs30” ->  “\fnZpix\b1\fs28” 避免跟画面混合
-Comment: 
-Comment: 对话符号编辑
-Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -627,8 +613,8 @@ Dialogue: 0,0:15:10.01,0:15:16.22,OSFA,,0,0,0,,{\c&HC8C7CB&\3c&H24242B&\move(162
 Dialogue: 0,0:15:16.22,0:15:16.27,OSFA,,0,0,0,,{\c&HC8C7CB&\3c&H24242B&\frz5.6\pos(128,277)}{\fs42}为什么大和田同学\N杀死了不二咲同学？
 Dialogue: 0,0:15:16.27,0:15:16.31,OSFA,,0,0,0,,{\c&HC8C7CB&\3c&H24242B&\frz7.841\pos(81,211)}{\fs42}为什么大和田同学\N杀死了不二咲同学？
 Dialogue: 0,0:15:16.31,0:15:16.35,OSFA,,0,0,0,,{\c&HC8C7CB&\3c&H24242B&\frz8.466\pos(29,137)}{\fs42}为什么大和田同学\N杀死了不二咲同学？
-Dialogue: 0,0:21:28.30,0:21:34.27,Title,,0,0,0,,{\fnZpix\b1\2c&H000000&\3c&H000000&\pos(466,261)}{\k18}大{\k18}和{\k18}田{\k18}同{\k18}学{\k18}被{\k18}认{\k18}定{\k18}为{\k18}犯{\k18}罪{\k18}者{\k18}。
-Dialogue: 0,0:21:31.22,0:21:34.27,Title,,0,0,0,,{\fnZpix\b1\2c&H000000&\3c&H000000&\pos(406,353)}{\k24}开{\k24}始{\k24}执{\k24}行{\k24}惩{\k24}罚{\k24}。
+Dialogue: 0,0:21:28.30,0:21:34.27,Title,,0,0,0,,{\fn方正基础像素\b1\2c&H000000&\3c&H000000&\pos(466,261)}{\k18}大{\k18}和{\k18}田{\k18}同{\k18}学{\k18}被{\k18}认{\k18}定{\k18}为{\k18}犯{\k18}罪{\k18}者{\k18}。
+Dialogue: 0,0:21:31.22,0:21:34.27,Title,,0,0,0,,{\fn方正基础像素\b1\2c&H000000&\3c&H000000&\pos(406,353)}{\k24}开{\k24}始{\k24}执{\k24}行{\k24}惩{\k24}罚{\k24}。
 Dialogue: 0,0:22:01.92,0:22:05.92,Title,,0,0,0,,{\fn方正正准黑_GBK\pos(401,353)}“死亡嚤託漩啭籠”
 Dialogue: 0,0:22:55.68,0:22:58.52,T2,,0,0,0,,{\frz13.57\frx12\fs22\fry0\c&H255B20&\4c&H17BFBD&\move(469,208,473,209,22,2817)}{\fs23\t(\fs24)}大和田黄油
 Dialogue: 0,0:24:22.02,0:24:26.02,Dead,,0,0,0,,{\blur1\fscx107\fscy100\pos(328,32.666)\fad(250,0)}幸存者

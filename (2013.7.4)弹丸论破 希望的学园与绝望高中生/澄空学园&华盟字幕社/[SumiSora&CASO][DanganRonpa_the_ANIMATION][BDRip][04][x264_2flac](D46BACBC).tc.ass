@@ -8,6 +8,20 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Timer: 100.0000
+Script Updated By: sommio
+Comment: 字体调整
+Comment: 字体 “方正基础像素” -> “Zpix” 避免繁体回退及提高可读性
+Comment: AlterEgo, AlterEgoS, AlterEgoCS 样式字体大小 18 -> 15
+Comment:
+Comment: 屏幕字调整
+Comment: EP02 “舞　　　　园” -> “舞　　　　 园” 添加一空格避免跟画面混合
+Comment: EP08 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP10 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP10 “大　　　神” ->  “大　　　 神” 添加一空格避免跟画面混合
+Comment: EP11 “\fnZpix\b1\fs30” ->  “\fnZpix\b1\fs28” 避免跟画面混合
+Comment: 
+Comment: 对话符号编辑
+Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -341,7 +355,7 @@ Dialogue: 0,0:21:32.40,0:21:37.05,Default,,0,0,0,,也就是說滅族者翔混在
 Dialogue: 0,0:21:41.13,0:21:42.80,Default,,0,0,0,,啊  你們在這裡啊
 Dialogue: 0,0:21:44.13,0:21:45.62,Default,,0,0,0,,腐川很不妙啊
 Dialogue: 0,0:21:47.75,0:21:50.21,Default,,0,0,0,,腐川在那之後樣子就很奇怪
-Dialogue: 0,0:21:46.07,0:21:48.03,Title,,0,0,0,,{\fn方正基础像素\b1\c&H010108&\frz344.8\frx10\fry10\pos(308,233.332)\fscx100\fscy71}腐　　　　　　川
+Dialogue: 0,0:21:46.07,0:21:48.03,Title,,0,0,0,,{\fnZpix\b1\c&H010108&\frz344.8\frx10\fry10\pos(308,233.332)\fscx100\fscy71}腐　　　　　　川
 Dialogue: 0,0:21:50.59,0:21:52.22,Default,,0,0,0,,叫她也不出來
 Dialogue: 0,0:21:52.32,0:21:55.18,Default,,0,0,0,,還說只想和十神同學說話
 Dialogue: 0,0:21:56.32,0:21:59.73,Default,,0,0,0,,腐川同學你沒事吧  我把十神帶來了

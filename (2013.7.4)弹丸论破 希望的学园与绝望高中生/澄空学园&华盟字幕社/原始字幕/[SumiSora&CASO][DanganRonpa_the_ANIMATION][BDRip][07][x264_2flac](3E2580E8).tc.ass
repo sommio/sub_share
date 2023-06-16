@@ -8,20 +8,6 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Timer: 100.0000
-Script Updated By: sommio
-Comment: 字体调整
-Comment: 字体 “方正基础像素” -> “Zpix” 避免繁体回退及提高可读性
-Comment: AlterEgo, AlterEgoS, AlterEgoCS 样式字体大小 18 -> 15
-Comment:
-Comment: 屏幕字调整
-Comment: EP02 “舞　　　　园” -> “舞　　　　 园” 添加一空格避免跟画面混合
-Comment: EP08 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “大　　　神” ->  “大　　　 神” 添加一空格避免跟画面混合
-Comment: EP11 “\fnZpix\b1\fs30” ->  “\fnZpix\b1\fs28” 避免跟画面混合
-Comment: 
-Comment: 对话符号编辑
-Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -660,8 +646,8 @@ Dialogue: 0,0:14:51.57,0:14:56.08,DanGanDANblur,,0,0,0,,{\blur2\pos(276,333)}電
 Dialogue: 0,0:14:56.08,0:14:56.12,DanGanDANblur,,0,0,0,,{\blur2\pos(430,333)}電子學生手冊
 Dialogue: 0,0:14:56.12,0:14:56.16,DanGanDANblur,,0,0,0,,{\blur2\pos(585,333)}電子學生手冊
 Dialogue: 0,0:10:57.88,0:10:57.88,Default,,0,0,0,,
-Dialogue: 0,0:20:13.19,0:20:18.94,Title,,0,0,0,,{\an3\fnZpix\b1\2c&H000000&\3c&H000000&\pos(466,261)\4c&H000000&}{\k18}塞{\k18}蕾{\k18}絲{\k18}同{\k18}學{\k18}被{\k18}認{\k18}定{\k18}為{\k18}犯{\k18}罪{\k18}者{\k18}。
-Dialogue: 0,0:20:15.90,0:20:18.94,Title,,0,0,0,,{\an3\fnZpix\b1\2c&H000000&\3c&H000000&\pos(406,353)\4c&H000000&}{\k24}開{\k24}始{\k24}執{\k24}行{\k24}懲{\k24}罰{\k24}。
+Dialogue: 0,0:20:13.19,0:20:18.94,Title,,0,0,0,,{\an3\fn方正基础像素\b1\2c&H000000&\3c&H000000&\pos(466,261)\4c&H000000&}{\k18}塞{\k18}蕾{\k18}絲{\k18}同{\k18}學{\k18}被{\k18}認{\k18}定{\k18}為{\k18}犯{\k18}罪{\k18}者{\k18}。
+Dialogue: 0,0:20:15.90,0:20:18.94,Title,,0,0,0,,{\an3\fn方正基础像素\b1\2c&H000000&\3c&H000000&\pos(406,353)\4c&H000000&}{\k24}開{\k24}始{\k24}執{\k24}行{\k24}懲{\k24}罰{\k24}。
 Dialogue: 0,0:10:57.88,0:10:57.88,Default,,0,0,0,,
 Dialogue: 0,0:20:38.13,0:20:41.17,TIPSYahei,,0,0,0,,{\an1\fn方正显仁简体\fs19\c&H35269F&\3c&H9DA9DC&\pos(126.5,259.5)}干
 Dialogue: 0,0:20:38.13,0:20:41.17,TIPSYahei,,0,0,0,,{\an1\fn方正显仁简体\fs6\c&H35269F&\3c&H9DA9DC&\fscx256\fscy110\pos(128.5,250.5)}八
