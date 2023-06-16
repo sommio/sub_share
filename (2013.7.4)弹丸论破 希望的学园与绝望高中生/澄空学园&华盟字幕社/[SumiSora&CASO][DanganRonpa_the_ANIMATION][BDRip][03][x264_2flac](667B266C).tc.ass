@@ -16,10 +16,11 @@ Comment:
 Comment: 屏幕字调整
 Comment: EP02 “舞　　　　园” -> “舞　　　　  园” 添加两空格避免跟画面混合
 Comment: EP03 “舞　　　　园” -> “舞　　　　 园” 添加两空格避免跟画面混合
-Comment: EP08 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “大　　　神” ->  “大　　　 神” 添加一空格避免跟画面混合
-Comment: EP11 “\fnZpix\b1\fs30” ->  “\fnZpix\b1\fs28” 避免跟画面混合
+Comment: EP08 “苗　　　木” -> “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP10 “苗　　　木” -> “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP10 “大　　　神” -> “大　　　 神” 添加一空格避免跟画面混合
+Comment: EP11 “\fnZpix\b1\fs30” -> “\fnZpix\b1\fs28” 避免跟画面混合
+Comment: EP11 06:46.15 增加一处屏幕字 “雾　　　　　 切”
 Comment: 
 Comment: 对话符号编辑
 Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix

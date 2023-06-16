@@ -16,11 +16,12 @@ Comment:
 Comment: 屏幕字调整
 Comment: EP02 “舞　　　　园” -> “舞　　　　  园” 添加两空格避免跟画面混合
 Comment: EP02 “舞　　　　园” -> “舞　　　　  园” 添加两空格避免跟画面混合
-Comment: EP06 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP08 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “苗　　　木” ->  “苗　　　 木” 添加一空格避免跟画面混合
-Comment: EP10 “大　　　神” ->  “大　　　 神” 添加一空格避免跟画面混合
-Comment: EP11 “\fnZpix\b1\fs30” ->  “\fnZpix\b1\fs28” 避免跟画面混合
+Comment: EP06 “苗　　　木” -> “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP08 “苗　　　木” -> “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP10 “苗　　　木” -> “苗　　　 木” 添加一空格避免跟画面混合
+Comment: EP10 “大　　　神” -> “大　　　 神” 添加一空格避免跟画面混合
+Comment: EP11 “\fnZpix\b1\fs30” -> “\fnZpix\b1\fs28” 避免跟画面混合
+Comment: EP11 06:46.15 增加一处屏幕字 “雾　　　　　 切”
 Comment: 
 Comment: 对话符号编辑
 Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
@@ -48,6 +49,7 @@ Style: T4,微软雅黑,26,&H00C77C07,&H000000FF,&H00F9FFA1,&H00FAFFA2,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:06:46.15,0:06:46.90,TIPSYahei,,0,0,0,,{\fnZpix\fs40\pos(202,226)\c&H000007&\b1}霧　　　　　 切
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,——————————————正文——————————————
 Dialogue: 0,0:00:10.32,0:00:15.07,Default,,0,0,0,,{\fad(300,0)\blur2\an7\fs18\c&HD0A369&\3c&H000000&}萬眾期待的\N{\c&HDF4BEC&\3c&HFCFCFC&}學級裁判開場~~~~！！{\c&H4837C1&\3c&H000000&\4c&H9B9B9B&}誰是真正的兇手！
 Dialogue: 0,0:00:04.32,0:00:05.97,Default,,0,0,0,,終極的真人秀
