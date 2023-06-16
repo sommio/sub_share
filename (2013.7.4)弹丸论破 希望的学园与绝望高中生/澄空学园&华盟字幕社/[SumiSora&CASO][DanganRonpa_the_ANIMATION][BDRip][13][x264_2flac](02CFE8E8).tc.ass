@@ -26,6 +26,7 @@ Comment:
 Comment: 编辑
 Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
 Comment: EP13 生僻字 “嚤” -> “摩”避免缺字回退
+Comment: EP13 13:09.08 处增加 {\fs22} 减小字体避免超出屏幕
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -160,7 +161,7 @@ Dialogue: 0,0:12:51.08,0:12:53.55,Default,,0,0,0,,怎麼樣 感到絕望了吧
 Dialogue: 0,0:12:54.31,0:12:57.72,Default,,0,0,0,,解開謎團之後  絕望了吧
 Dialogue: 0,0:12:59.96,0:13:04.65,Default,,0,0,0,,難道說…連解開謎團的過程也只是你計劃中的一環…？
 Dialogue: 0,0:13:06.51,0:13:08.84,Default,,0,0,0,,如果說就是這樣的話…你們會怎麼做
-Dialogue: 0,0:13:09.08,0:13:16.06,Default,,0,0,0,,如果說我真正的目的就是讓你們自己解開謎團來展示這一絕望的真相的話
+Dialogue: 0,0:13:09.08,0:13:16.06,Default,,0,0,0,,{\fs22}如果說我真正的目的就是讓你們自己解開謎團來展示這一絕望的真相的話
 Dialogue: 0,0:13:17.98,0:13:19.59,Default,,0,0,0,,怎麼會這樣…
 Dialogue: 0,0:13:20.96,0:13:23.82,Default,,0,0,0,,啊哈哈哈…才不好笑呢
 Dialogue: 0,0:13:56.45,0:13:58.14,Default,,0,0,0,,我知道了啦…

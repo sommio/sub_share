@@ -25,6 +25,7 @@ Comment:
 Comment: 编辑
 Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
 Comment: EP13 生僻字 “嚤” -> “摩”避免缺字回退
+Comment: EP13 13:09.08 处增加 {\fs22} 减小字体避免超出屏幕
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
