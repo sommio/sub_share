@@ -23,8 +23,9 @@ Comment: EP10 “大　　　神” -> “大　　　 神” 添加一空格避
 Comment: EP11 “\fnZpix\b1\fs30” -> “\fnZpix\b1\fs28” 避免跟画面混合
 Comment: EP11 06:46.15 增加一处屏幕字 “雾　　　　　 切”
 Comment: 
-Comment: 对话符号编辑
+Comment: 编辑
 Comment: EP06 “{\r}吧  {\fn方正基础像素}（o^▽^o）” -> “{\r}吧{\fnZpix\fs23}(o^▽^o)” 以适应字体 Zpix
+Comment: EP13 生僻字 “嚤” -> “摩”避免缺字回退
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1042,8 +1043,8 @@ Dialogue: 0,0:28:20.09,0:28:28.26,Title,,0,0,0,,{\fs20\an3\fnZpix\b1\2c&H000000&
 Dialogue: 0,0:28:23.01,0:28:28.26,Title,,0,0,0,,{\fs20\an3\fnZpix\b1\2c&H000000&\3c&H000000&\4c&H000000&\c&HFFFFFF&\pos(410,352)}{\k24}开{\k24}始{\k24}执{\k24}行{\k24}惩{\k24}罚{\k24}。
 Dialogue: 0,0:28:49.66,0:28:52.62,TIPSYahei,,0,0,0,,{\an5\fn方正正准黑_GBK\c&HFCFCFC&\pos(320,340)}"超高校级的绝望惩罚"
 Dialogue: 0,0:28:53.46,0:28:55.00,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,220)}千击球
-Dialogue: 0,0:28:57.71,0:28:59.25,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,220)}死亡嚤託漩啭籠
-Dialogue: 0,0:28:57.71,0:28:59.25,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,138.286)}嚤託噻筘睇嘶咳慈
+Dialogue: 0,0:28:57.71,0:28:59.25,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,220)}死亡摩託漩啭籠
+Dialogue: 0,0:28:57.71,0:28:59.25,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,138.286)}摩託噻筘睇嘶咳慈
 Dialogue: 0,0:29:01.96,0:29:03.84,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,220)}凡尔赛宫式  火刑  魔女狩猎套餐
 Dialogue: 0,0:29:06.68,0:29:08.22,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,220)}挖掘机达人
 Dialogue: 0,0:29:10.93,0:29:12.48,TIPSYahei,,0,0,0,,{\an5\fs22\fn方正稚艺_GBK\c&HFCFCFC&\pos(320,220)}宇宙旅行
