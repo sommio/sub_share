@@ -11,7 +11,7 @@ PlayResY: 1080
 PlayDepth: 0
 Timer: 100.0000
 YCbCr Matrix: TV.601
-Script Updated By: supercoolman, joker2000@bbs.acgrip.com
+Script Updated By: supercoolman, joker2000@bbs.acgrip.com, sommio
 Comment: supercoolman 发布信息
 Comment: src:https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5536
 Comment:
@@ -36,6 +36,31 @@ Comment: 跑一遍繁化姬，改为简体字幕。
 Comment: 将字体样式修改为和字幕组原本简体一致。
 Comment: 部分繁中用语修改回简中用语。
 Comment: 改名匹配 LoliHouse BDRip。
+Comment: 
+Comment: 
+Comment: sommio 修改记录
+Comment: 
+Comment: OCR 错字修正
+Comment: EP07 “彺这里做动画……” -> “住这里做动画……”
+Comment: EP10 “那么关于调杳结果” -> “那么关于调查结果”
+Comment: EP10 “接下來只剰奪回千紗老師了” -> “接下来只剩夺回千纱老师了”
+Comment:
+Comment: 对话修补
+Comment: EP10 “是用御手洗君提供的技术做的视频哦” -> “是用御手洗君提供的技术做的洗脑视频哦”[1]
+Comment: EP11 使用更流行的名词 “媒因” -> “模因”(简)/“迷因”(繁)[2]
+Comment:
+Comment: bbs.acgrip.com 用户「僭居真实的虚伪」更改并入
+Comment: EP01 “本部的学生真是比想象中还乱来…” -> “本部的人真是比想象中还乱来…”
+Comment: EP01 “比起才能  属于大家的希望才是更为美好的存在 我们一起让之闪耀吧” -> “比起才能  大家的希望才更加美好 我们一起让之闪耀吧”
+Comment: EP11 “不是江之岛盾子” -> “江之岛盾子是清白的”
+Comment:
+Comment: 对话编辑
+Comment: EP10 05:28.29 处添加 “{\fs68}” 避免超出屏幕
+Comment: EP11 时轴修正 “0:04:07.36,0:04:10.00” -> “0:04:07.36,0:04:09.68” 避免重叠
+Comment:
+Comment: 参考
+Comment: [1] https://github.com/sommio/sub_share/blob/80c4a9fd398f15cc195f9f9ce932688caaf122a7/(2016.7)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD/CathPlay%2B/%E6%A7%8D%E5%BD%88%E8%BE%AF%E9%A7%813-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E5%B3%B0%E5%AD%B8%E5%9C%92-%E7%B5%95%E6%9C%9B%E7%B7%A8s01e10.WEB-DL.CathPlay.zh-TW.srt#L511
+Comment: [2] https://zh.wikipedia.org/zh-tw/%E8%BF%B7%E5%9B%A0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
