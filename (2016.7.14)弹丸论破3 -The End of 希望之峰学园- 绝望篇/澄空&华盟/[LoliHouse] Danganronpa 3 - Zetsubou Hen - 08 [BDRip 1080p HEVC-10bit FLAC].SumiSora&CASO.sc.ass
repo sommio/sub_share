@@ -43,10 +43,16 @@ Comment: OCR 错字修正
 Comment: EP07 “彺这里做动画……” -> “住这里做动画……”
 Comment: EP10 “那么关于调杳结果” -> “那么关于调查结果”
 Comment: EP10 “接下來只剰奪回千紗老師了” -> “接下来只剩夺回千纱老师了”
+Comment: EP10 “因为我的脑海中已经被输人了” -> “因为我的脑海中已经被输入了”
+Comment: EP11 “未采篇” -> “未来篇”
 Comment:
 Comment: 对话修补
 Comment: EP10 “是用御手洗君提供的技术做的视频哦” -> “是用御手洗君提供的技术做的洗脑视频哦”[1]
 Comment: EP11 使用更流行的名词 “媒因” -> “模因”(简)/“迷因”(繁)[2]
+Comment:
+Comment: 注释修补
+Comment: EP07 “会长名字与小说中的设定相冲突\N原本事件中的学生会长名称为  村上早春” -> “会长名字与小说中的设定相冲突\N原本事件中的学生会长名称为  村雨早春” 
+Comment: 根据上下文使用原始字幕的小说译名[3][4]
 Comment:
 Comment: bbs.acgrip.com 用户「僭居真实的虚伪」更改并入
 Comment: EP01 “本部的学生真是比想象中还乱来…” -> “本部的人真是比想象中还乱来…”
@@ -55,11 +61,14 @@ Comment: EP11 “不是江之岛盾子” -> “江之岛盾子是清白的”
 Comment:
 Comment: 对话编辑
 Comment: EP10 05:28.29 处添加 “{\fs68}” 避免超出屏幕
+Comment: EP01 时轴修正 “0:21:39.95,0:21:40.87” -> “0:21:40.19,0:21:40.87” 避免重叠
 Comment: EP11 时轴修正 “0:04:07.36,0:04:10.00” -> “0:04:07.36,0:04:09.68” 避免重叠
 Comment:
 Comment: 参考
 Comment: [1] https://github.com/sommio/sub_share/blob/80c4a9fd398f15cc195f9f9ce932688caaf122a7/(2016.7)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD/CathPlay%2B/%E6%A7%8D%E5%BD%88%E8%BE%AF%E9%A7%813-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E5%B3%B0%E5%AD%B8%E5%9C%92-%E7%B5%95%E6%9C%9B%E7%B7%A8s01e10.WEB-DL.CathPlay.zh-TW.srt#L511
 Comment: [2] https://zh.wikipedia.org/zh-tw/%E8%BF%B7%E5%9B%A0
+Comment: [3] https://github.com/sommio/sub_share/blob/6bef6f6e845ce75d6fd2a44863116b8a1b5060ad/(2016.7.14)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E7%BB%9D%E6%9C%9B%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/robrt%20%E6%89%8B%E6%8A%84%2007~11/%5BANK-Raws%5D%20%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%913%20%E2%88%92The%20End%20of%20%E5%B8%8C%E6%9C%9B%E3%83%B6%E5%B3%B0%E5%AD%A6%E5%9C%92%E2%88%92%20%E7%B5%B6%E6%9C%9B%E7%B7%A8%2007%20(BDrip%201920x1080%20HEVC-YUV420P10%20FLAC).SumiSora%26CASO.chs.ass#L222
+Comment: [4] https://forum.gamer.com.tw/Co.php?bsn=19001&sn=5945
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
