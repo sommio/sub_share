@@ -58,6 +58,8 @@ Style: CNAME2,FZXiaoBiaoSong_GB18030,30,&H00FFFFFF,&H000000FF,&H00E7822A,&H00272
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:20:01.20,0:20:04.30,DefaultM,NTP,0,0,30,,{\an7}NG：在苗木诚存活的情况下
+Dialogue: 0,0:20:06.60,0:20:10.14,DefaultM,NTP,0,0,30,,{\an7}进入第4回合
 Comment: 0,0:00:01.00,0:00:01.00,Default,,0,0,0,,——————————————STAFF——————————————
 Comment: 0,0:02:22.99,0:02:32.96,STAFF,,0,0,0,,{\fs32\an2\fad(350,350)}{\c&H1CBD77&}{\fn华康平剧体 Std W7}片源{\c&HFDFCFE&} {\fn华康平剧体 Std W7}山山{\fn微软雅黑} ♦ {\fn华康平剧体 Std W7\3c&HE7822A&}{\c&H1CBD77&}翻译{\c&HFDFCFE&} {\fn华康平剧体 Std W7}凄阡陌  {\c&HFDFCFE&\fn华康俪金黑W8}QB{\fn方正粗谭黑简体\fs27}俺の嫁{\fs32\fn华康俪金黑W8}{\fn微软雅黑} ♦ {\fn华康平剧体 Std W7}{\c&H1CBD77&}校对{\c&HFDFCFE&\fn华康平剧体 Std W7} 尘焱{\fn微软雅黑} ♦ {\fn华康平剧体 Std W7}{\c&H1CBD77&}后期{\c&HFDFCFE&} {\fn华康俪金黑W8}Rainship{\fn微软雅黑} ♦ {\c&H1CBD77&\fn华康平剧体 Std W7}繁化 {\c&HFDFCFE&\fn华康平剧体 Std W7}塔布里斯
 Comment: 0,0:02:22.99,0:02:32.96,STAFF,,0,0,0,,{\fs32\an8\fad(350,350)\c&H1CBD77&}{\fn华康平剧体 Std W7\c&H1CBD77&}澄空学园{\c&HFDFCFE&}{\fn微软雅黑} ♦ {\fn华康平剧体 Std W7}华盟字幕社

@@ -46,6 +46,8 @@ Style: CNAME2,FZXiaoBiaoSong_GB18030,30,&H00FFFFFF,&H000000FF,&H00E7822A,&H00272
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:20:01.20,0:20:04.30,DefaultM,NTP,0,0,30,,{\an7}NG：在苗木誠存活的情況下
+Dialogue: 0,0:20:06.60,0:20:10.14,DefaultM,NTP,0,0,30,,{\an7}進入第4回合
 Comment: 0,0:00:01.00,0:00:01.00,Default,,0,0,0,,——————————————STAFF——————————————
 Comment: 0,0:02:22.99,0:02:32.96,STAFF,,0,0,0,,{\fs32\an2\fad(350,350)}{\c&H1CBD77&}{\fn華康平劇體W7}片源{\c&HFDFCFE&} {\fn華康平劇體W7}山山{\fn微软雅黑} ♦ {\fn華康平劇體W7\3c&HE7822A&}{\c&H1CBD77&}翻譯{\c&HFDFCFE&} {\fn華康平劇體W7}淒阡陌  {\c&HFDFCFE&\fn華康儷金黑}QB{\fn方正粗谭黑繁体\fs27}俺の嫁{\fs32\fn華康儷金黑}{\fn微软雅黑} ♦ {\fn華康平劇體W7}{\c&H1CBD77&}校對{\c&HFDFCFE&\fn華康平劇體W7} 塵焱{\fn微软雅黑} ♦ {\fn華康平劇體W7}{\c&H1CBD77&}後期{\c&HFDFCFE&} {\fn華康儷金黑}Rainship{\fn微软雅黑} ♦ {\c&H1CBD77&\fn華康平劇體W7}繁化 {\c&HFDFCFE&\fn華康平劇體W7}塔布里斯
 Comment: 0,0:02:22.99,0:02:32.96,STAFF,,0,0,0,,{\fs32\an8\fad(350,350)\c&H1CBD77&}{\fn華康平劇體W7\c&H1CBD77&}澄空學園{\c&HFDFCFE&}{\fn微软雅黑} ♦ {\fn華康平劇體W7}華盟字幕社
