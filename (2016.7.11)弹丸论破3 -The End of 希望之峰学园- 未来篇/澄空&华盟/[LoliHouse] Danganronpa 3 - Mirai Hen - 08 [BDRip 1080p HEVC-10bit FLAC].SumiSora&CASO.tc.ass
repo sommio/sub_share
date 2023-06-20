@@ -10,7 +10,7 @@ PlayResX: 1280
 PlayDepth: 0
 Timer: 100.0000
 YCbCr Matrix: TV.601
-Script Updated By: supercoolman@bbs.acgrip.com
+Script Updated By: supercoolman@bbs.acgrip.com, sommio
 Comment: supercoolman 发布信息
 Comment: src:https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5536
 Comment:
@@ -24,6 +24,47 @@ Comment: 自行製作部份字幕的特效
 Comment: 修正各種語詞、手誤還有手抄錯字
 Comment: 有些片段或是整個段落不確定是手抄漏了還是BD變更所以完全沒有字幕的補上自己翻的字幕和製作時間軸
 Comment: 修正和調整時間軸。雖然同樣都是使用ANK-RAW但不知道為什麼大部分都還是需要調整時間軸
+Comment:
+Comment:
+Comment: sommio 更改記錄
+Comment:
+Comment: 增補部分
+Comment: EP09 20:01.20 處添加 NG 注釋
+Comment:
+Comment:「僭居真實的虛偽 」增補追加
+Comment: EP09 “你是我死亡的理由” -> “你是我甘願赴死的理由” [1]
+Comment:
+Comment: 恢復原始字幕部分
+Comment: EP10 “明白…個屁啊” -> “你知道  知道  知道  知道些什麼啊” [2]
+Comment:
+Comment: 僅限簡體更改
+Comment: “黑进” -> “骇近” 重简化 [3]
+Comment: “干净俐落” -> “干净利落”
+Comment: “这幺” -> “这么”
+Comment: “追根究柢” -> “追根究底” 
+Comment: “恐怖攻击” -> “恐怖袭击”
+Comment: “讯号” -> “信号”
+Comment: “西红柿酱” -> “番茄酱”
+Comment: “精采” -> “精彩”
+Comment: “枪弹辩驳” -> “弹丸论破”
+Comment: “越来越地” -> “越发地” [4]
+Comment: “潜水员” -> “ROM专” [5]
+Comment: “录影” -> “录像” [6]
+Comment: “视频档案” -> “视频文件”
+Comment: EP05 “流流歌和静子不就已经是朋友了嘛” -> “流流歌和静子不已经是朋友了嘛” [7]
+Comment: EP07 “虽说她是个最熊的小屁孩” -> “虽说她是个最熊的熊孩子” [8]
+Comment: EP07 “必须得选一个出路呢” -> “必须得选一个出来呢” [9]
+Comment: 
+Comment: 參考
+Comment: [1] https://github.com/sommio/sub_share/blob/d8d9875c9f98829e64a011bbf50fd84b4d00923b/(2016.7)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%83%AD%E5%B1%85%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%99%9A%E4%BC%AA%20%E4%BF%AE%E6%94%B9%E7%89%88/1.%E6%9C%AA%E6%9D%A5%E7%B7%A8/9.You%20are%20my%20reason%20to%20Die%EF%BC%88%E4%BD%A0%E6%98%AF%E6%88%91%E7%94%98%E6%84%BF%E8%B5%B4%E6%AD%BB%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%89.ass#L59
+Comment: [2] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/robrt%20%E6%89%8B%E6%8A%84%2007-12/%5BANK-Raws%5D%20%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%913%20%E2%88%92The%20End%20of%20%E5%B8%8C%E6%9C%9B%E3%83%B6%E5%B3%B0%E5%AD%A6%E5%9C%92%E2%88%92%20%E6%9C%AA%E6%9D%A5%E7%B7%A8%2010%20(BDrip%201920x1080%20HEVC-YUV420P10%20FLAC).SumiSora%26CASO.chs.ass#L175
+Comment: [3] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%5BLoliHouse%5D%20Danganronpa%203%20-%20Mirai%20Hen%20-%2006%20%5BBDRip%201080p%20HEVC-10bit%20FLAC%5D.SumiSora%26CASO.tc.ass#L291
+Comment: [4] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/%E5%AD%97%E5%B9%95%E7%BB%84%20BD%20%E5%A4%96%E6%8C%82/%5BSumiSora%26CASO%5D%5BDanganRonpa3%5D%5BFuture_Side%5D%5B04%5D%5Bx265_aac%5D(F0CF5AD9).sc.ass#L232
+Comment: [5] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/robrt%20%E6%89%8B%E6%8A%84%2007-12/%5BANK-Raws%5D%20%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%913%20%E2%88%92The%20End%20of%20%E5%B8%8C%E6%9C%9B%E3%83%B6%E5%B3%B0%E5%AD%A6%E5%9C%92%E2%88%92%20%E6%9C%AA%E6%9D%A5%E7%B7%A8%2007%20(BDrip%201920x1080%20HEVC-YUV420P10%20FLAC).SumiSora%26CASO.chs.ass#L227
+Comment: [6] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/robrt%20%E6%89%8B%E6%8A%84%2007-12/%5BANK-Raws%5D%20%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%913%20%E2%88%92The%20End%20of%20%E5%B8%8C%E6%9C%9B%E3%83%B6%E5%B3%B0%E5%AD%A6%E5%9C%92%E2%88%92%20%E6%9C%AA%E6%9D%A5%E7%B7%A8%2011%20(BDrip%201920x1080%20HEVC-YUV420P10%20FLAC).SumiSora%26CASO.chs.ass#L121
+Comment: [7] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/%E5%AD%97%E5%B9%95%E7%BB%84%20BD%20%E5%A4%96%E6%8C%82/%5BSumiSora%26CASO%5D%5BDanganRonpa3%5D%5BFuture_Side%5D%5B05%5D%5Bx265_aac%5D(C6A57072).sc.ass#L132
+Comment: [8] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/robrt%20%E6%89%8B%E6%8A%84%2007-12/%5BANK-Raws%5D%20%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%913%20%E2%88%92The%20End%20of%20%E5%B8%8C%E6%9C%9B%E3%83%B6%E5%B3%B0%E5%AD%A6%E5%9C%92%E2%88%92%20%E6%9C%AA%E6%9D%A5%E7%B7%A8%2007%20(BDrip%201920x1080%20HEVC-YUV420P10%20FLAC).SumiSora%26CASO.chs.ass#L161
+Comment: [9] https://github.com/sommio/sub_share/blob/8d0c7215ba08948ba422871fe0db592f997a8a25/(2016.7.11)%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B43%20-The%20End%20of%20%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%B3%B0%E5%AD%A6%E5%9B%AD-%20%E6%9C%AA%E6%9D%A5%E7%AF%87/%E6%BE%84%E7%A9%BA%26%E5%8D%8E%E7%9B%9F/%E5%8E%9F%E5%A7%8B%E5%AD%97%E5%B9%95/robrt%20%E6%89%8B%E6%8A%84%2007-12/%5BANK-Raws%5D%20%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%913%20%E2%88%92The%20End%20of%20%E5%B8%8C%E6%9C%9B%E3%83%B6%E5%B3%B0%E5%AD%A6%E5%9C%92%E2%88%92%20%E6%9C%AA%E6%9D%A5%E7%B7%A8%2007%20(BDrip%201920x1080%20HEVC-YUV420P10%20FLAC).SumiSora%26CASO.chs.ass#L179
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
