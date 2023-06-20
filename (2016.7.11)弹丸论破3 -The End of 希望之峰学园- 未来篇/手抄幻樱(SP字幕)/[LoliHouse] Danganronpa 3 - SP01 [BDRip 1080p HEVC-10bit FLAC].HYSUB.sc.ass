@@ -10,7 +10,7 @@ PlayResX: 1920
 PlayResY: 1080
 Timer: 100.0000
 YCbCr Matrix: TV.709
-Script Updated By: supercoolman, joker2000@bbs.acgrip.com
+Script Updated By: supercoolman, joker2000@bbs.acgrip.com, sommio
 Comment: supercoolman 发布信息
 Comment: src:https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5536
 Comment:
@@ -34,6 +34,19 @@ Comment: 该版加上了各集标题、OP、ED、TIPS，观感会更好一些。
 Comment: 跑一遍繁化姬，改为简体字幕。
 Comment: 将字体样式修改为和字幕组原本简体一致。
 Comment: 部分繁中用语修改回简中用语。
+Comment:
+Comment:
+Comment: sommio 更改记录
+Comment:
+Comment: “保全” -> “警备员” 错字修正及与正片统一名词
+Comment: 
+Comment: 合并「僭居真实的虚伪」增改
+Comment: SP03 增补注释 “{\an7}手上的文件分别是：禁止使用砂糖呦……\N怎样才能做出不放糖也好吃的点心”
+Comment: SP03 增补漏翻 “话说还不知道你到底长什么样” -> “话说到现在还不知道你到底长什么样 是闹哪样啊”
+Comment: 
+Comment: 仅简体部分
+Comment: “摄像头” -> “摄像机” 
+Comment: “讯号” -> “信号”
 Comment: 改名匹配 LoliHouse BDRip。
 
 [V4+ Styles]

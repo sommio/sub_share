@@ -9,7 +9,7 @@ PlayResX: 1920
 PlayResY: 1080
 Timer: 100.0000
 YCbCr Matrix: TV.709
-Script Updated By: supercoolman@bbs.acgrip.com
+Script Updated By: supercoolman@bbs.acgrip.com, sommio
 Comment: supercoolman 发布信息
 Comment: src:https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5536
 Comment:
@@ -23,6 +23,19 @@ Comment: 自行製作部份字幕的特效
 Comment: 修正各種語詞、手誤還有手抄錯字
 Comment: 有些片段或是整個段落不確定是手抄漏了還是BD變更所以完全沒有字幕的補上自己翻的字幕和製作時間軸
 Comment: 修正和調整時間軸。雖然同樣都是使用ANK-RAW但不知道為什麼大部分都還是需要調整時間軸
+Comment:
+Comment:
+Comment: sommio 更改記錄
+Comment:
+Comment: “保全” -> “警備員” 錯字修正及與正片統一名詞
+Comment: 
+Comment: 合併「僭居真实的虚伪」增改
+Comment: SP03 增補註釋 “{\an7}手上的文件分別是：禁止使用砂糖呦……\N怎樣才能做出不放糖也好吃的點心”
+Comment: SP03 增補漏翻 “話說還不知道你到底長什麼樣” -> “話說到現在還不知道你到底長什麼樣 是搞什麼啊”
+Comment: 
+Comment: 僅簡體部分
+Comment: “摄像头” -> “摄像机” 
+Comment: “讯号” -> “信号”
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
