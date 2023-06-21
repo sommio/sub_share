@@ -34,6 +34,7 @@ Comment: 该版加上了各集标题、OP、ED、TIPS，观感会更好一些。
 Comment: 跑一遍繁化姬，改为简体字幕。
 Comment: 将字体样式修改为和字幕组原本简体一致。
 Comment: 部分繁中用语修改回简中用语。
+Comment: 改名匹配 LoliHouse BDRip。
 Comment:
 Comment:
 Comment: sommio 更改记录
@@ -47,7 +48,6 @@ Comment:
 Comment: 仅简体部分
 Comment: “摄像头” -> “摄像机” 
 Comment: “讯号” -> “信号”
-Comment: 改名匹配 LoliHouse BDRip。
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
