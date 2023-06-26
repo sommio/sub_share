@@ -13,7 +13,7 @@ PlayResX:640
 PlayResY:480
 Timer:100.0000
 Script Updated By: 匿名@u2.dmhy.org
-Update Details: Sushi再校正
+Update Details: Sushi再校正, 字体 DFKai-SB -> Source Han Sans CN Medium & 幼圆 -> MS Gothic
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
