@@ -13,13 +13,13 @@ PlayResX:640
 PlayResY:480
 Timer:100.0000
 Script Updated By: 匿名@u2.dmhy.org
-Update Details: Sushi再校正, 字体 DFKai-SB -> Source Han Sans CN Medium & 幼圆 -> MS Gothic
+Update Details: Sushi再校正, 字体 DFKai-SB -> Source Han Sans CN Medium & 幼圆 -> MS Gothic; Source Han Sans CN Medium -> Source Han Sans TW Medium
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ED_C,方正大标宋_GBK,26,&H00FFFFFF,&H00000000,&H00000000,&H80000000,-1,0,0,0,100,100,0,0.00,1,0,2,9,20,20,10,1
 Style: OP_C,方正大标宋_GBK,26,&H50FFA055,&H00000000,&H00FFFFFF,&H8077474E,-1,0,0,0,100,100,0,0.00,1,2,0,9,20,20,15,1
-Style: Default,Source Han Sans CN Medium,40,&H00FFFFFF,&HF0000000,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,30,30,15,1
+Style: Default,Source Han Sans TW Medium,40,&H00FFFFFF,&HF0000000,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,30,30,15,1
 Style: ED_J,DFHSMincho-W9,24,&H00FFFFFF,&H00000000,&H00000000,&H80000000,-1,0,0,0,100,100,0,0.00,1,0,2,1,20,20,10,1
 Style: OP_J,DFHSMincho-W9,24,&H50FFA055,&H00000000,&H00FFFFFF,&H80FFFFFF,-1,0,0,0,100,100,0,0.00,1,2,0,1,20,20,15,1
 
