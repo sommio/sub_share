@@ -7,6 +7,21 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+Script Updated By: sommio
+Update Details: 调轴对应 iAHD 美版 BDRip
+Comment: 原始字幕来自「诸神字幕组」1080P HEVC MKV 版（非合集&非 BDRip）
+Comment: src https://dmhy.org/topics/list?keyword=Yuukoku+no+Moriarty+MKV&sort_id=0&team_id=288&order=date-desc
+Comment: 
+Comment: 基于原始视频对帧平移对应 iAHD 美版 BDRip, 每集至少随机抽 30 帧验证偏移
+Comment: 无发现帧偏移:       EP07, EP13, EP16, EP19
+Comment: 延后 24 帧(1.00s): EP01
+Comment: 提前 08 帧(0.33s): EP14, EP17, EP20
+Comment: 提前 14 帧(0.58s): EP04
+Comment: 提前 15 帧(0.63s): EP22
+Comment: 提前 16 帧(0.67s): EP09, EP12, EP18, EP21, EP24
+Comment: 提前 17 帧(0.71s): EP05
+Comment: 提前 18 帧(0.75s): EP02, EP08, EP11, EP15, EP23
+Comment: 提前 20 帧(0.83s): EP03, EP06, EP10
 
 [Aegisub Project Garbage]
 Scroll Position: 236
