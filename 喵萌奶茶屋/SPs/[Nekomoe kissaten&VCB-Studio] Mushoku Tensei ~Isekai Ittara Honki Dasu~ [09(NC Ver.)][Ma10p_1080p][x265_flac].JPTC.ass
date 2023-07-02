@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+Comment: 字幕来自喵萌奶茶屋 & VCB-Studio 于 2022/06/07 发布的 BDRip，仅转载未作任何修改
+Comment: src https://dmhy.org/topics/view/602366_VCB-Studio_Mushoku_Tensei_Isekai_Ittara_Honki_Dasu_10-bit_1080p_HEVC_BDRip_S1_Fin.html
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

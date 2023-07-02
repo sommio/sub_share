@@ -7,6 +7,8 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
+Comment: 字幕来自動漫國字幕組&洛琪希圖書館于 2022/07/03 发布的 BDRip，仅转载未作任何修改
+Comment: src https://dmhy.org/topics/view/604527_BDRip_HEVC_FLAC_1080P_Ma10P.html
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
