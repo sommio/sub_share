@@ -1,0 +1,31 @@
+﻿[Script Info]
+Title: [Mushoku_Tensei_Isekai_Ittara_Honki_Dasu][ED2]
+Original Script: DMG&RoxyLib
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: EDJP,FOT-Matisse ProN DB,42,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.3,0.3,2,0,0,10,1
+Style: EDCN,方正准雅宋_GBK,40,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.3,0.3,8,0,0,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——ED——
+Dialogue: 0,0:00:20.16,0:00:30.80,EDJP,,0,0,0,,{\fad(200,200)\be3}窓辺で見ていた空と　この空は同じなのか
+Dialogue: 0,0:00:31.76,0:00:41.52,EDJP,,0,0,0,,{\fad(200,200)\be3}黄昏は心を読むように　色付いているみたいだ
+Dialogue: 0,0:00:44.56,0:00:49.23,EDJP,,0,0,0,,{\fad(200,200)\be3}無邪気な日々を置いた場所で
+Dialogue: 0,0:00:49.48,0:00:57.66,EDJP,,0,0,0,,{\fad(200,200)\be3}風が僕らを迎えるように吹いている
+Dialogue: 0,0:00:58.28,0:01:08.08,EDJP,,0,0,0,,{\fad(200,200)\be3}変わらないで　街も人も夢にまでみたまま
+Dialogue: 0,0:01:08.08,0:01:22.93,EDJP,,0,0,0,,{\fad(200,200)\be3}あの日のように一番星に願う　帰りの道
+Dialogue: 0,0:00:20.16,0:00:30.80,EDCN,,0,0,0,,{\fad(200,200)\be3}眼前的天空 和记忆中窗外的蓝天一样吗
+Dialogue: 0,0:00:31.76,0:00:41.52,EDCN,,0,0,0,,{\fad(200,200)\be3}黄昏的色彩 仿佛是我此刻心声的写照
+Dialogue: 0,0:00:44.56,0:00:49.23,EDCN,,0,0,0,,{\fad(200,200)\be3}在我留下了天真岁月的地方
+Dialogue: 0,0:00:49.48,0:00:57.66,EDCN,,0,0,0,,{\fad(200,200)\be3}迎接的风吹向了我们的面庞
+Dialogue: 0,0:00:58.28,0:01:08.08,EDCN,,0,0,0,,{\fad(200,200)\be3}求城镇与这里的人不变 无论在不在梦里
+Dialogue: 0,0:01:08.08,0:01:22.93,EDCN,,0,0,0,,{\fad(200,200)\be3}回家之前 我向着长庚星许愿 如同曾经做过的那样
+Comment: 0,0:00:17.54,0:00:17.54,Comment,,0,0,0,,
