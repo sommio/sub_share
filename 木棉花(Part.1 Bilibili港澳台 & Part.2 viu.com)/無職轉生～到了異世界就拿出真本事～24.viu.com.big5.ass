@@ -10,6 +10,79 @@ PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+Comment: 转载自 cocola@bbs.acgrip.com 最后修改于 2022-6-12，仅转载未作任何二次修改
+Comment: 原始發布字幕僅有繁中，因此簡體為「繁化姬-中國化」轉換之
+Comment: src https://bbs.acgrip.com/forum.php?mod=viewthread&tid=8219
+Comment:
+Comment: 
+Comment: 字幕來源：
+Comment: Part.01 → (1~11話採用bilibili港澳台版本)
+Comment: Part.02 → (12~24話採用黃Viu的版本)
+Comment:
+Comment: 
+Comment: 字幕調軸 ：
+Comment: (1~11話總體延後1秒+僅結束時間提前0.03秒) 
+Comment: (12~23話總體延後1秒+僅結束時間提前0.03秒)
+Comment: (24話總體延後0.98秒+僅開始時間延後0.01秒)
+Comment:
+Comment: 
+Comment: 字幕說明：
+Comment: 其字幕來源是官方木棉花的，但根據平台的不同又有些差異，以下詳細說明
+Comment: Part.01是從[bilibili]，而Part.02是從[黃Viu]上提取下來的字幕。
+Comment: 
+Comment: 
+Comment: 字幕改動：
+Comment: # 其差異在於[黃Viu]和[bilibili]有些許地方與台版用字遣詞的不同
+Comment: 例如第二話[黃Viu]裡的「隱蔽族」台譯是「家裡蹲」
+Comment: 這邊我統一改成以[巴哈姆特動漫瘋]上木棉花官方版本的用詞。
+Comment: 
+Comment: # 兩個版本都有缺漏主文本以外的字幕問題
+Comment: [bilibili]沒有OP和ED以及(Annotation)的部分 → (OP和ED補上Viu的)
+Comment: [黃Viu]則是缺少部分(Annotation), 且Part.02部分常與本文混在一起用導致時軸不準確
+Comment: 
+Comment: # 我用(Annotation)表示本文以外的對話，參考官方在本文的上方表示方式。
+Comment: 漏文本的部分本人從[巴哈姆特動漫瘋]上的web版手抄下來在調時間軸
+Comment: https://s2.loli.net/2023/07/03/sy1SMdNg3baYTJ8.png
+Comment: 
+Comment: # 格式方面，[黃Viu]的字幕有許多標點符號從缺，這邊我以官方的格式補上例如:
+Comment: ex.1「但是如果你對我女兒出手」→「但是, 如果你對我女兒出手…」
+Comment: ex.2「艾莉絲非常興奮地說起了」
+Comment:「我在牢中的一星期發生的事」→「艾莉絲非常興奮地說起了\N我在牢中的一星期發生的事」
+Comment: 由上可知原始字幕會把換行的\N拆開，但小弟感覺拆開時間軸略急促了一點，所以採用官方的用法
+Comment: 字幕中有空格的地方就是上下合併所遺留的產物
+Comment: 其他還有一些小細節的補足這裡就不一一說明了。
+Comment: 
+Comment: # 再來就是標點符號逗號的問題，這個其實很主觀，木棉花上的字幕都是會有加逗號的習慣
+Comment: 加上我自己也覺得這樣字幕比較有條序，所以[Viu TV]用空格表示的部分我換上了, (逗號加一格)
+Comment: 字體採用了官方慣用的微軟正黑體，所以效果跟官方一樣，逗號不會顯得很突兀。
+Comment: https://s2.loli.net/2023/07/03/4xlXWSYfuyrLCGK.png
+Comment: 
+Comment: # OP和ED新增blur效果，部分集數會有歌詞和文本夾雜的部分
+Comment: 歌詞會用"......"表示以示區別
+Comment: https://s2.loli.net/2023/07/03/DpJtZVemFREjqwf.png
+Comment: 
+Comment: # bilibili版本第八話因為有刪減問題11:52.71後有漏一句話，導致該句話後方時間軸有誤差
+Comment: 用[黃Viu]的版本修正之。
+Comment: 同一話04:59.42後兩個版本都有一句話沒有文本，推測是BD版新增的，小弟日語粗淺簡單翻譯一下是
+Comment: 「稍微性騷擾她一下吧」，並且此句後的幾句話因為此新增畫面而有程度不一的時間軸錯誤，對此做了一些修正。
+Comment: (第三話同樣問題也以相同方式解決之)
+Comment: 
+Comment: # 第九話開始有異族的對話，小弟不知官方用的是什麼字體所以直接用微軟正黑體的小改，效果如下。 
+Comment: https://s2.loli.net/2023/07/03/zFQejbnfUsK4iIo.png
+Comment: 
+Comment: # 調軸參考[巴哈姆特的動漫瘋]的web版, 以外掛字幕一字一句比對
+Comment: 每一話都有做不同程度的修正, 尤其20~21話改動得特別多。
+Comment: ↑(web版硬字幕)↓(外掛字幕)
+Comment: https://s2.loli.net/2023/07/03/1VlN9I2AaLFKCwP.png
+Comment: 
+Comment: # 除此之外我還有小改一小部分覺得有誤的台詞，讓語意通順一點
+Comment: 有覺得不妥的部分，可以直接參考[巴哈姆特的動漫瘋]的官方web版本。
+Comment: 
+Comment: # 最後我想說，真的是很喜歡這個作品和木棉花的翻譯才認真修訂了這些字幕，前段時間VCB休站就自食其力了
+Comment: 小弟平常就有修訂字幕的習慣，但這部作品算是我近年最花心力的作品
+Comment: 且主要是上述的版本都有漏句的問題。
+Comment: 所以我才想說分享給也喜歡官方翻譯的朋友一個"格式上"接近官方且統一的版本
+Comment: 敝人才疏學淺若有冒犯或錯誤的部分，還請指教。
 
 [Aegisub Project Garbage]
 Scroll Position: 234
