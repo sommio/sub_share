@@ -48,7 +48,7 @@ Video Position: 2206
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Noto Sans CJK SC Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Default,Source Han Sans CN Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -364,7 +364,7 @@ Dialogue: 0,0:20:26.75,0:20:30.22,Default,,0,0,0,,你把美杜莎叫来还出门
 Dialogue: 0,0:20:30.43,0:20:35.89,Default,,0,0,0,,没关系 美杜莎比我低等 就让她等吧
 Dialogue: 0,0:20:36.06,0:20:39.77,Default,,0,0,0,,小邪神 欢迎回来 今天有什么事吗?
 Dialogue: 0,0:20:39.98,0:20:42.81,Default,,0,0,0,,我就只有这么多钱了
-Dialogue: 0,0:20:40.65,0:20:42.74,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-65\fs88\pos(850,760)\c&H000000&\bord0}钱 一万元
+Dialogue: 0,0:20:40.65,0:20:42.74,Default,,0,0,0,,{\fn@Source Han Sans CN Medium\fr-65\fs88\pos(850,760)\c&H000000&\bord0}钱 一万元
 Dialogue: 0,0:20:42.81,0:20:45.11,Default,,0,0,0,,笨蛋!别在百合音面前拿出来啊!
 Dialogue: 0,0:20:45.11,0:20:46.69,Default,,0,0,0,,抱 抱歉
 Dialogue: 0,0:20:47.11,0:20:50.03,Default,,0,0,0,,我又有拜托她这个

@@ -47,7 +47,7 @@ Video Position: 2206
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Noto Sans CJK SC Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Default,Source Han Sans CN Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -181,7 +181,7 @@ Dialogue: 0,0:08:03.61,0:08:09.32,Default,,0,0,0,,可是麻烦了 我要怎么�
 Dialogue: 0,0:08:10.62,0:08:12.28,Default,,0,0,0,,就交给我们吧
 Dialogue: 0,0:08:13.54,0:08:16.36,Default,,0,0,0,,我们会用秘密的仪式送你回去的
 Dialogue: 0,0:08:17.12,0:08:17.71,Default,,0,0,0,,哎
-Dialogue: 0,0:08:19.45,0:08:27.42,Default,,0,0,0,,{\pos(1730,500)\c&H222B29&\3c&H52EDFA&\bord3\fn@Noto Sans CJK SC Medium\fr-100\fs88}魔界咖喱
+Dialogue: 0,0:08:19.45,0:08:27.42,Default,,0,0,0,,{\pos(1730,500)\c&H222B29&\3c&H52EDFA&\bord3\fn@Source Han Sans CN Medium\fr-100\fs88}魔界咖喱
 Dialogue: 0,0:08:19.45,0:08:27.42,Default,,0,0,0,,{\pos(320,960)\c&H222B29&\3c&H52EDFA&\bord3}魔界{\c&H2F27C4&\3c&HFFFFFF&}超辣{\c&H222B29&\3c&H52EDFA&}咖喱
 Dialogue: 0,0:08:19.75,0:08:21.26,Default,,0,0,0,,久等了 你的咖喱
 Dialogue: 0,0:08:28.05,0:08:30.94,Default,,0,0,0,,这咖喱 超辣的
@@ -288,7 +288,7 @@ Dialogue: 0,0:14:33.04,0:14:35.58,Default,,0,0,0,,你居然买这么贵的东西
 Dialogue: 0,0:14:36.63,0:14:37.71,Default,,0,0,0,,美杜莎
 Dialogue: 0,0:14:37.96,0:14:42.55,Default,,0,0,0,,我会用你的钱买到的这些东西赢过她们的
 Dialogue: 0,0:14:42.88,0:14:44.01,Default,,0,0,0,,加油哦
-Dialogue: 0,0:14:44.00,0:14:45.09,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-80\fs88\pos(1080,760)\c&HF7A544&\bord3\3c&HFFFFFF&\fsp20}死了吗?
+Dialogue: 0,0:14:44.00,0:14:45.09,Default,,0,0,0,,{\fn@Source Han Sans CN Medium\fr-80\fs88\pos(1080,760)\c&HF7A544&\bord3\3c&HFFFFFF&\fsp20}死了吗?
 Dialogue: 0,0:14:44.01,0:14:45.26,Default,,0,0,0,,死了吗?
 Dialogue: 0,0:14:45.43,0:14:48.64,Default,,0,0,0,,然后 为了断游佐她们的后路
 Dialogue: 0,0:14:49.01,0:14:49.97,Default,,0,0,0,,我要
@@ -315,10 +315,10 @@ Dialogue: 0,0:15:51.58,0:15:54.50,Default,,0,0,0,,她好像很希望有人去救
 Dialogue: 0,0:15:54.70,0:15:58.71,Default,,0,0,0,,那个是「没事的 别担心」的表情哦
 Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(1560,810)\c&H31546F&\bord0}咖喱锉冰
 Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(1060,120)\c&H5C4027&\bord5\fr10\3c&HD89B6E&\fsp10}恶魔锉冰
-Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(940,960)\bord0\fn@Noto Sans CJK SC Medium\fr-90\fs56\c&H4C3828&}咖喱
-Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(890,960)\bord0\fn@Noto Sans CJK SC Medium\fr-90\fs56\c&H4C3828&}红豆
-Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(840,960)\bord0\fn@Noto Sans CJK SC Medium\fr-90\fs56\c&H4C3828&}哈密瓜
-Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(790,960)\bord0\fn@Noto Sans CJK SC Medium\fr-90\fs56\c&H4C3828&}葡萄
+Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(940,960)\bord0\fn@Source Han Sans CN Medium\fr-90\fs56\c&H4C3828&}咖喱
+Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(890,960)\bord0\fn@Source Han Sans CN Medium\fr-90\fs56\c&H4C3828&}红豆
+Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(840,960)\bord0\fn@Source Han Sans CN Medium\fr-90\fs56\c&H4C3828&}哈密瓜
+Dialogue: 0,0:15:58.70,0:16:03.67,Default,,0,0,0,,{\pos(790,960)\bord0\fn@Source Han Sans CN Medium\fr-90\fs56\c&H4C3828&}葡萄
 Dialogue: 0,0:15:59.04,0:16:00.02,Default,,0,0,0,,欢迎
 Dialogue: 0,0:16:00.08,0:16:01.36,Default,,0,0,0,,暖乎乎的哦
 Dialogue: 0,0:16:01.59,0:16:02.46,Default,,0,0,0,,我要

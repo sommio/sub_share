@@ -48,7 +48,7 @@ Video Position: 2206
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Noto Sans CJK SC Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Default,Source Han Sans CN Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -202,7 +202,7 @@ Dialogue: 0,0:10:10.96,0:10:13.96,Default,,0,0,0,,{\an8}只要抓个看起来很
 Dialogue: 0,0:10:14.06,0:10:16.08,Default,,0,0,0,,{\an8}随便说几句话把画卖给他的简单工作
 Dialogue: 0,0:10:16.30,0:10:20.66,Default,,0,0,0,,{\an8}你也有佣金可以抽 你这么漂亮一定能赚的 要吗
 Dialogue: 0,0:10:21.24,0:10:22.80,Default,,0,0,0,,{\an8}怎么办好呢
-Dialogue: 0,0:10:23.41,0:10:27.37,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-90\fs56\pos(1050,350)\c&HA32BEF&\fsp5\bord0}天使的工作
+Dialogue: 0,0:10:23.41,0:10:27.37,Default,,0,0,0,,{\fn@Source Han Sans CN Medium\fr-90\fs56\pos(1050,350)\c&HA32BEF&\fsp5\bord0}天使的工作
 Dialogue: 0,0:10:31.70,0:10:35.33,Default,,0,0,0,,你好口爱耶 就像天使一样啊
 Dialogue: 0,0:10:35.33,0:10:39.71,Default,,0,0,0,,只有你这么口爱的女生才行 钱钱超多的工作
 Dialogue: 0,0:10:39.71,0:10:41.08,Default,,0,0,0,,要不要来做啊?
@@ -300,10 +300,10 @@ Dialogue: 0,0:15:18.49,0:15:21.07,Default,,0,0,0,,在我疲劳时来了个麻烦
 Dialogue: 0,0:15:22.24,0:15:25.33,Default,,0,0,0,,丢食物也太浪费了吧
 Dialogue: 0,0:15:25.70,0:15:27.06,Default,,0,0,0,,真是不像你会做的
 Dialogue: 0,0:15:28.80,0:15:29.48,Default,,0,0,0,,正是如此
-Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-90\fs88\pos(1750,660)\c&H000000&\bord0}其一 草菅人命没关系
-Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-90\fs88\pos(500,660)\c&H000000&\bord0}但不能浪费食物
+Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fn@Source Han Sans CN Medium\fr-90\fs88\pos(1750,660)\c&H000000&\bord0}其一 草菅人命没关系
+Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fn@Source Han Sans CN Medium\fr-90\fs88\pos(500,660)\c&H000000&\bord0}但不能浪费食物
 Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fs88\pos(400,660)\c&H000000&\bord0}By
-Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-90\fs88\pos(350,750)\c&H000000&\bord0}小邪神
+Dialogue: 0,0:15:27.34,0:15:31.30,Default,,0,0,0,,{\fn@Source Han Sans CN Medium\fr-90\fs88\pos(350,750)\c&H000000&\bord0}小邪神
 Dialogue: 0,0:15:29.83,0:15:31.42,Default,,0,0,0,,By小邪神
 Dialogue: 0,0:15:31.63,0:15:33.50,Default,,0,0,0,,掉在地上还是可以吃的
 Dialogue: 0,0:15:33.67,0:15:37.80,Default,,0,0,0,,佩可拉的不是3秒规则 是30秒规则啊
