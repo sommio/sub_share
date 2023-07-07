@@ -48,12 +48,12 @@ Video Position: 30224
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Noto Sans CJK SC Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Default,Source Han Sans HK Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,{\an8\fs56}本字幕由DHR百合組製作 僅供交流參考\N如喜歡本作品請支持正版
-Dialogue: 0,0:00:02.00,0:00:04.00,Default,,0,0,0,,{\an8\fs56}翻譯: 小爪 つイクレア 精忠爲我 校對: つイクレア\N後期: Misaki喵
+Dialogue: 0,0:00:02.00,0:00:04.00,Default,,0,0,0,,{\an8\fs56}翻譯: 小爪 つイクレア 精忠為我 校對: つイクレア\N後期: Misaki喵
 Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,{\an8\fs56}手抄: NoobNeo
 Dialogue: 0,0:00:06.51,0:00:07.68,Default,,0,0,0,,彌諾斯
 Dialogue: 0,0:00:08.51,0:00:09.72,Default,,0,0,0,,妳在做什麽?
@@ -178,7 +178,7 @@ Dialogue: 0,0:07:28.70,0:07:31.16,Default,,0,0,0,,為什麽要撒這種謊呢?
 Dialogue: 0,0:07:31.58,0:07:33.71,Default,,0,0,0,,棄權棄權 是我吃掉的啦
 Dialogue: 0,0:07:34.25,0:07:35.00,Default,,0,0,0,,所以?
 Dialogue: 0,0:07:45.22,0:07:46.47,Default,,0,0,0,,真是的
-Dialogue: 0,0:07:48.18,0:07:50.60,Default,,0,0,0,,沒收妳的炸雞作爲懲罰
+Dialogue: 0,0:07:48.18,0:07:50.60,Default,,0,0,0,,沒收妳的炸雞作為懲罰
 Dialogue: 0,0:07:51.43,0:07:52.39,Default,,0,0,0,,怎麽這樣...
 Dialogue: 0,0:07:52.81,0:07:56.14,Default,,0,0,0,,章 章魚燒...血...
 Dialogue: 0,0:07:56.14,0:07:57.98,Default,,0,0,0,,章 章魚燒...
@@ -203,7 +203,7 @@ Dialogue: 0,0:09:04.63,0:09:05.46,Default,,0,0,0,,好吃嗎?
 Dialogue: 0,0:09:05.71,0:09:07.55,Default,,0,0,0,,多吃一點吧
 Dialogue: 0,0:09:10.30,0:09:12.89,Default,,0,0,0,,欸 小邪神 妳知道嗎?
 Dialogue: 0,0:09:14.18,0:09:17.31,Default,,0,0,0,,聖誕老人的衣服是紅色
-Dialogue: 0,0:09:18.52,0:09:20.52,Default,,0,0,0,,是因爲染血了啊
+Dialogue: 0,0:09:18.52,0:09:20.52,Default,,0,0,0,,是因為染血了啊
 Dialogue: 0,0:09:22.69,0:09:24.61,Default,,0,0,0,,{\fs60}meri-kurisumasu\N{\r}聖誕快樂
 Dialogue: 0,0:09:25.94,0:09:28.57,Default,,0,0,0,,{\fs60}meri-kurusimimasu\N{\r}受苦快樂
 Dialogue: 0,0:09:28.57,0:09:29.11,Default,,0,0,0,,喔?
@@ -231,7 +231,7 @@ Dialogue: 0,0:11:01.37,0:11:02.54,Default,,0,0,0,,請用
 Dialogue: 0,0:11:02.87,0:11:04.21,Default,,0,0,0,,您多禮了
 Dialogue: 0,0:11:05.25,0:11:08.72,Default,,0,0,0,,沒想到居然把預備獨吞的蛋糕端出來
 Dialogue: 0,0:11:02.57,0:11:08.54,Default,,0,0,0,,{\p1\pos(130,890)\bord0}m 0 0 l 100 0 100 700 0 700 {\p0}
-Dialogue: 0,0:11:02.57,0:11:08.54,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-90\fs220\pos(50,580)\c&H000000&\bord0\fsp30}從昏倒復活了
+Dialogue: 0,0:11:02.57,0:11:08.54,Default,,0,0,0,,{\fnSource Han Sans HK Medium\fr-90\fs220\pos(50,580)\c&H000000&\bord0\fsp30}從昏倒復活了
 Dialogue: 0,0:11:09.13,0:11:12.02,Default,,0,0,0,,早知道就在訓練前吃掉了
 Dialogue: 0,0:11:16.09,0:11:19.52,Default,,0,0,0,,夏天多虧小冰 真是幫了大忙
 Dialogue: 0,0:11:22.56,0:11:24.44,Default,,0,0,0,,話說 那個...
@@ -260,7 +260,7 @@ Dialogue: 0,0:12:34.66,0:12:35.38,Default,,0,0,0,,還有
 Dialogue: 0,0:12:36.44,0:12:39.94,Default,,0,0,0,,{\an8}好薄 蛋糕薄得像紙一樣!
 Dialogue: 0,0:12:36.17,0:12:40.00,Default,,0,0,0,,聽說那邊的惡魔很照顧舍妹
 Dialogue: 0,0:12:40.10,0:12:42.10,Default,,0,0,0,,我來回禮的
-Dialogue: 0,0:12:46.32,0:12:50.60,Default,,0,0,0,,爲什麽這傢伙要用滿是殺意的眼神看我...
+Dialogue: 0,0:12:46.32,0:12:50.60,Default,,0,0,0,,為什麽這傢伙要用滿是殺意的眼神看我...
 Dialogue: 0,0:12:51.44,0:12:53.96,Default,,0,0,0,,難道是來要我的性命嗎?
 Dialogue: 0,0:12:54.48,0:12:57.48,Default,,0,0,0,,成年的冰族屬於上級惡魔
 Dialogue: 0,0:12:58.03,0:13:00.80,Default,,0,0,0,,要是有個萬一 會被殺掉的啊...
@@ -269,12 +269,12 @@ Dialogue: 0,0:13:02.45,0:13:05.45,Default,,0,0,0,,小邪神 妳做了什麽?
 Dialogue: 0,0:13:09.83,0:13:13.00,Default,,0,0,0,,明明不願意卻還在耳邊吹口哨糖
 Dialogue: 0,0:13:13.28,0:13:15.58,Default,,0,0,0,,{\an8}妳從今天起就是95元啦
 Dialogue: 0,0:13:13.96,0:13:17.06,Default,,0,0,0,,被貼麵包的標價在背上
-Dialogue: 0,0:13:17.16,0:13:19.46,Default,,0,0,0,,妳别在那邊打小報告!
+Dialogue: 0,0:13:17.16,0:13:19.46,Default,,0,0,0,,妳別在那邊打小報告!
 Dialogue: 0,0:13:20.18,0:13:22.35,Default,,0,0,0,,妳居然做這麽無聊的事
 Dialogue: 0,0:13:23.01,0:13:23.93,Default,,0,0,0,,從那之後
 Dialogue: 0,0:13:24.42,0:13:30.50,Default,,0,0,0,,每當舍妹聽到口哨就怕 一到超市購物就發抖
 Dialogue: 0,0:13:30.73,0:13:31.80,Default,,0,0,0,,怎麽可能啊!
-Dialogue: 0,0:13:32.02,0:13:36.68,Default,,0,0,0,,因爲這傢伙明明是下級惡魔卻不聽我的話的錯吧!
+Dialogue: 0,0:13:32.02,0:13:36.68,Default,,0,0,0,,因為這傢伙明明是下級惡魔卻不聽我的話的錯吧!
 Dialogue: 0,0:13:38.94,0:13:40.28,Default,,0,0,0,,妳又侮辱她了吧
 Dialogue: 0,0:13:40.82,0:13:44.72,Default,,0,0,0,,侮辱舍妹 就等於侮辱我們高貴的冰族
 Dialogue: 0,0:13:45.45,0:13:47.84,Default,,0,0,0,,什麽高貴的冰族啊
@@ -285,7 +285,7 @@ Dialogue: 0,0:13:55.09,0:13:56.71,Default,,0,0,0,,妳剛說鼴鼠?
 Dialogue: 0,0:13:57.17,0:14:00.84,Default,,0,0,0,,今天本想就這樣和平的歸去
 Dialogue: 0,0:14:01.51,0:14:06.14,Default,,0,0,0,,妳居然說了我們冰族最在意的事
 Dialogue: 0,0:14:06.56,0:14:09.10,Default,,0,0,0,,什麽嘛 妳就安安靜靜的滚啦
-Dialogue: 0,0:14:06.59,0:14:11.18,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-70\fs56\pos(330,980)\c&H000000&\bord0}毛毯
+Dialogue: 0,0:14:06.59,0:14:11.18,Default,,0,0,0,,{\fnSource Han Sans HK Medium\fr-70\fs56\pos(330,980)\c&H000000&\bord0}毛毯
 Dialogue: 0,0:14:09.35,0:14:11.44,Default,,0,0,0,,再說 很冷啦
 Dialogue: 0,0:14:12.35,0:14:14.31,Default,,0,0,0,,對手若是浩二就算了
 Dialogue: 0,0:14:14.31,0:14:16.23,Default,,0,0,0,,要打倒這傢伙是不可能的
@@ -297,7 +297,7 @@ Dialogue: 0,0:14:26.87,0:14:29.20,Default,,0,0,0,,笨蛋! 什麽都沒有啦!
 Dialogue: 0,0:14:29.29,0:14:30.90,Default,,0,0,0,,浩二 THE END 啦!
 Dialogue: 0,0:14:31.00,0:14:32.88,Default,,0,0,0,,妳那滿是破綻的後背
 Dialogue: 0,0:14:33.17,0:14:37.56,Default,,0,0,0,,就用我强化過後威力爆增的飛踢來貫穿吧
-Dialogue: 0,0:14:37.58,0:14:41.70,Default,,0,0,0,,而妳被殺死後 姊姊就會墜入悲傷絶望的深淵
+Dialogue: 0,0:14:37.58,0:14:41.70,Default,,0,0,0,,而妳被殺死後 姊姊就會墜入悲傷絕望的深淵
 Dialogue: 0,0:14:41.82,0:14:46.52,Default,,0,0,0,,整個精神崩潰 我就不戰而勝啦!
 Dialogue: 0,0:14:47.01,0:14:48.76,Default,,0,0,0,,而且妳的
 Dialogue: 0,0:14:49.39,0:14:49.97,Default,,0,0,0,,什...
@@ -305,7 +305,7 @@ Dialogue: 0,0:14:51.39,0:14:51.98,Default,,0,0,0,,什...
 Dialogue: 0,0:14:52.14,0:14:52.73,Default,,0,0,0,,什...
 Dialogue: 0,0:14:52.89,0:14:53.44,Default,,0,0,0,,什...
 Dialogue: 0,0:14:53.56,0:14:54.73,Default,,0,0,0,,什...
-Dialogue: 0,0:14:55.60,0:14:56.31,Default,,0,0,0,,{\fn@Noto Sans CJK SC Medium\fr-100\fs400\pos(1000,560)\bord5\3c&HC07836&\fsp156}結凍
+Dialogue: 0,0:14:55.60,0:14:56.31,Default,,0,0,0,,{\fnSource Han Sans HK Medium\fr-100\fs400\pos(1000,560)\bord5\3c&HC07836&\fsp156}結凍
 Dialogue: 0,0:15:01.11,0:15:01.74,Default,,0,0,0,,又來啦
 Dialogue: 0,0:15:02.40,0:15:03.48,Default,,0,0,0,,强化後的腹肌
 Dialogue: 0,0:15:04.11,0:15:06.54,Default,,0,0,0,,什麽用都沒有
@@ -345,7 +345,7 @@ Dialogue: 0,0:17:11.74,0:17:15.42,Default,,0,0,0,,妳只是陶醉在賣乖装聽
 Dialogue: 0,0:17:24.80,0:17:26.40,Default,,0,0,0,,小邪神妳這笨蛋!
 Dialogue: 0,0:17:27.88,0:17:30.50,Default,,0,0,0,,我不管妳了!
 Dialogue: 0,0:17:30.84,0:17:33.34,Default,,0,0,0,,也不會再來人間了!
-Dialogue: 0,0:17:35.98,0:17:38.82,Default,,0,0,0,,笨蛋 别來了 再也別來了
+Dialogue: 0,0:17:35.98,0:17:38.82,Default,,0,0,0,,笨蛋 別來了 再也別來了
 Dialogue: 0,0:17:47.57,0:17:50.22,Default,,0,0,0,,有點說過頭了...
 Dialogue: 0,0:17:52.62,0:17:53.40,Default,,0,0,0,,美杜莎...
 Dialogue: 0,0:17:54.78,0:17:57.96,Default,,0,0,0,,被美杜莎討厭了...
@@ -362,10 +362,10 @@ Dialogue: 0,0:18:36.74,0:18:40.78,Default,,0,0,0,,那就每個月用魔界快捷
 Dialogue: 0,0:18:40.94,0:18:45.13,Default,,0,0,0,,我又不是那麽想見美杜莎
 Dialogue: 0,0:18:47.34,0:18:50.22,Default,,0,0,0,,老闆 再來一杯生草莓汁
 Dialogue: 0,0:18:50.63,0:18:52.94,Default,,0,0,0,,您喝太多了 小邪神
-Dialogue: 0,0:18:53.22,0:18:55.16,Default,,0,0,0,,别管我的事
+Dialogue: 0,0:18:53.22,0:18:55.16,Default,,0,0,0,,別管我的事
 Dialogue: 0,0:18:55.56,0:18:58.96,Default,,0,0,0,,多攝取點草莓也不會弄壞身體啦
 Dialogue: 0,0:18:59.27,0:18:59.82,Default,,0,0,0,,不是...
-Dialogue: 0,0:19:00.39,0:19:05.14,Default,,0,0,0,,我不是擔心妳 我是擔心别的客人都沒得喝了
+Dialogue: 0,0:19:00.39,0:19:05.14,Default,,0,0,0,,我不是擔心妳 我是擔心別的客人都沒得喝了
 Dialogue: 0,0:19:05.94,0:19:07.84,Default,,0,0,0,,哎...啊...喔
 Dialogue: 0,0:19:14.03,0:19:15.62,Default,,0,0,0,,走不動了...
 Dialogue: 0,0:19:26.96,0:19:28.88,Default,,0,0,0,,太凄慘啦
