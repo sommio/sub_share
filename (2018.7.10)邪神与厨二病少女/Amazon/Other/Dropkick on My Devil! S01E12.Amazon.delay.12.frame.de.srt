@@ -1,3 +1,10 @@
+0
+00:00:00,000 --> 00:00:00,000
+Amazon subtitles & videos from [DragsterPS]
+original subtitle only in Traditional Chinese, Simplified Chinese is "zhconvert.org - China" conversion
+According to [ANK-Raws] JPN HEVC BDRip to adjusting timing, EP01~06 delayed 15 frames & EP07~12 delayed 12 frames
+sommio.
+
 1
 00:00:28,466 --> 00:00:30,426
 Da bin ich wieder,
