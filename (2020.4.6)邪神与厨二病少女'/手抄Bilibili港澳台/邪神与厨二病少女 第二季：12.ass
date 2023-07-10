@@ -15,8 +15,9 @@ Video File: ../../../../../../../../HDD/HDD1/Video/Anime/[Lilith-Raws] Jashin-ch
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 3
-Video Position: 742
+Scroll Position: 81
+Active Line: 96
+Video Position: 9353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,6 +64,7 @@ Dialogue: 0,0:03:08.27,0:03:09.81,Default,,0,0,0,,北海道啊
 Dialogue: 0,0:03:10.23,0:03:13.48,Default,,0,0,0,,虽然我没去过 但莫名有亲近感！
 Dialogue: 0,0:03:15.74,0:03:17.99,Default,,0,0,0,,抱歉在你们谈兴正浓之时打扰你们
 Dialogue: 0,0:03:18.28,0:03:19.78,Default,,0,0,0,,我不去
+Dialogue: 0,0:03:20.89,0:03:21.70,Default,,0,0,0,,脸
 Dialogue: 0,0:03:21.70,0:03:24.75,Default,,0,0,0,,钱的话我可以帮你出
 Dialogue: 0,0:03:24.75,0:03:28.62,Default,,0,0,0,,为何擅自吃掉我纳税得来的返礼
 Dialogue: 0,0:03:28.71,0:03:31.25,Default,,0,0,0,,不是 你看我脸 够了吧？
@@ -119,6 +121,7 @@ Dialogue: 0,0:06:18.67,0:06:19.96,Default,,0,0,0,,让您久等了
 Dialogue: 0,0:06:21.34,0:06:22.42,Default,,0,0,0,,看起来很美味
 Dialogue: 0,0:06:22.55,0:06:23.59,Default,,0,0,0,,我开动了
 Dialogue: 0,0:06:26.01,0:06:29.30,Default,,0,0,0,,居然是从中国魔界远道而来的客人 真稀奇
+Dialogue: 0,0:06:30.08,0:06:32.30,Default,,0,0,0,,好吃～
 Dialogue: 0,0:06:37.11,0:06:38.56,Default,,0,0,0,,亮晶晶
 Dialogue: 0,0:06:38.77,0:06:40.27,Default,,0,0,0,,这就是姬鳟啊
 Dialogue: 0,0:06:40.65,0:06:42.74,Default,,0,0,0,,水槽好大
