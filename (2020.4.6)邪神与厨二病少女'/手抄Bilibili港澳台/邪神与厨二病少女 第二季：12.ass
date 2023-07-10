@@ -10,14 +10,14 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: ../../../../../../../../HDD/HDD1/Video/Anime/[Lilith-Raws] Jashin-chan Dropkick S02 - 12 [BiliBili][WEB-DL][1080p][AVC AAC][CHT][MKV].mkv/[Lilith-Raws] Jashin-chan Dropkick S02 - 12 [BiliBili][WEB-DL][1080p][AVC AAC][CHT][MKV].mkv
-Video File: ../../../../../../../../HDD/HDD1/Video/Anime/[Lilith-Raws] Jashin-chan Dropkick S02 - 12 [BiliBili][WEB-DL][1080p][AVC AAC][CHT][MKV].mkv/[Lilith-Raws] Jashin-chan Dropkick S02 - 12 [BiliBili][WEB-DL][1080p][AVC AAC][CHT][MKV].mkv
+Audio File: ../../../../../../../../HDD/HDD1/Video/Anime/[Lilith-Raws] Jashin-chan Dropkick/[Lilith-Raws] Jashin-chan Dropkick S02 - 12 [BiliBili][WEB-DL][1080p][AVC AAC][CHT][MKV].mkv
+Video File: ../../../../../../../../HDD/HDD1/Video/Anime/[Lilith-Raws] Jashin-chan Dropkick/[Lilith-Raws] Jashin-chan Dropkick S02 - 12 [BiliBili][WEB-DL][1080p][AVC AAC][CHT][MKV].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 16
-Video Position: 14038
+Scroll Position: 369
+Active Line: 375
+Video Position: 27748
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,13 +35,16 @@ Dialogue: 0,0:00:50.97,0:00:52.76,Default,,0,0,0,,{\an8}大～蛇～丸～
 Dialogue: 0,0:06:39.19,0:06:43.61,Default,,0,0,0,,{\an8}我看不见 我看不见啊！
 Dialogue: 0,0:06:44.20,0:06:46.74,Default,,0,0,0,,{\an8}还是看不见
 Dialogue: 0,0:07:10.89,0:07:12.26,Default,,0,0,0,,{\an8}(Milky Bell 细泽牧场)\N(邪神与厨二病少女联动店)
+Dialogue: 0,0:17:56.68,0:17:59.18,Default,,0,0,0,,{\an8}*马雷库
 Dialogue: 0,0:00:06.74,0:00:09.24,Default,,0,0,0,,-支笏湖特产姬鳟鱼(姬普) -支笏湖姬普鱼\N-又渣又可爱的魔界恶魔小邪神(CV.铃木爱奈)
 Dialogue: 0,0:00:06.74,0:00:09.24,Default,,0,0,0,,{\an8}欢迎来到千岁市\N(土木学会选奖土木遗产 -山线铁桥)(千岁 -北海道离天空最近的城市)
 Dialogue: 0,0:00:09.24,0:00:10.99,Default,,0,0,0,,{\an8}千岁 -北海道离天空最近的城市
 Dialogue: 0,0:04:50.90,0:04:52.90,Default,,0,0,0,,(贝特一周的伙食)
 Dialogue: 0,0:06:44.55,0:06:47.47,Default,,0,0,0,,-(印第安水车) -(源于北美 用于捕获沿川逆流而上的鲑鱼的设施)\N-(当有鲑鱼进入水车筐时 会因水力转动自动将鱼捕上岸)
 Dialogue: 0,0:07:08.99,0:07:10.20,Default,,0,0,0,,{\an8}*阿伊努族传统渔具
+Dialogue: 0,0:07:29.01,0:07:31.01,Default,,0,0,0,,-(匠心之森 美味之本) -(森本糕点)
 Dialogue: 0,0:09:43.02,0:09:45.52,Default,,0,0,0,,(支笏湖游客中心)
+Dialogue: 0,0:19:13.71,0:19:17.72,Default,,0,0,0,,{\an8}(九驹温泉 佐佐木先生)
 Dialogue: 0,0:00:15.56,0:00:17.10,Default,,0,0,0,,真美
 Dialogue: 0,0:00:17.56,0:00:21.44,Default,,0,0,0,,今天我们来到了北海道千岁市的支笏湖
 Dialogue: 0,0:00:29.03,0:00:31.74,Default,,0,0,0,,小邪神 这是哆隆隆布丁？
@@ -344,7 +347,6 @@ Dialogue: 0,0:19:00.43,0:19:03.27,Default,,0,0,0,,这个 那个
 Dialogue: 0,0:19:04.89,0:19:07.98,Default,,0,0,0,,算了 去旅馆吧
 Dialogue: 0,0:19:09.11,0:19:10.81,Default,,0,0,0,,肚子饿了
 Dialogue: 0,0:19:13.57,0:19:16.57,Default,,0,0,0,,花园百合铃小姐和四名恶魔对吗
-Dialogue: 0,0:19:16.57,0:19:17.32,Default,,0,0,0,,佐々木è
 Dialogue: 0,0:19:17.32,0:19:19.41,Default,,0,0,0,,收到各位的预约了
 Dialogue: 0,0:19:20.58,0:19:24.54,Default,,0,0,0,,我是在网上订的房间 没那纸券也没关系的
 Dialogue: 0,0:19:26.75,0:19:29.79,Default,,0,0,0,,还有莉薇露大人和两名天使对吗
@@ -396,10 +398,9 @@ Dialogue: 0,0:22:00.23,0:22:00.94,Default,,0,0,0,,好吃
 Dialogue: 0,0:22:00.94,0:22:01.36,Default,,0,0,0,,好吃
 Dialogue: 0,0:22:01.36,0:22:04.78,Default,,0,0,0,,对了 我想起来忘记什么了
 Dialogue: 0,0:22:04.95,0:22:08.03,Default,,0,0,0,,佩可拉大人被熊带走后一直没去救她…
-Dialogue: 0,0:22:08.03,0:22:08.66,Default,,0,0,0,,田健太\N(Y二-2-工以>)
 Dialogue: 0,0:22:08.66,0:22:09.33,Default,,0,0,0,,好吃～
 Dialogue: 0,0:22:09.33,0:22:09.70,Default,,0,0,0,,好吃～
-Dialogue: 0,0:22:09.79,0:22:12.50,Default,,0,0,0,,好吃 姬鳟棒极了
+Dialogue: 0,0:22:09.79,0:22:12.50,Default,,0,0,0,,-好吃 -姬鳟棒极了
 Dialogue: 0,0:22:12.87,0:22:13.96,Default,,0,0,0,,算了
 Dialogue: 0,0:22:21.80,0:22:23.55,Default,,0,0,0,,还以为要没命了
 Dialogue: 0,0:22:30.85,0:22:32.81,Default,,0,0,0,,多谢款待
