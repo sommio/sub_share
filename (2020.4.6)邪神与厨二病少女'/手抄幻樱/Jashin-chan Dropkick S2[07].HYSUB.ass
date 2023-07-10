@@ -3,11 +3,39 @@
 ; http://www.aegisub.org/
 Title: untitled
 ScriptType: v4.00+
+Original Script: 风水金鱼@bbs.acgrip.com
+Original Translation: 幻樱字幕组
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
+Script Updated By: sommio
+Update Details: 错漏修正
+Comment: 简中字幕由风水金鱼@bbs.acgrip.com手抄自幻樱字幕组，繁体为「繁化姬-台湾化」转换
+Comment: https://bbs.acgrip.com/forum.php?mod=viewthread&tid=7644
+Comment: 
+Comment: 原始字幕应为含 03v2 修正的幻樱 GB_MP4 合集版(非 BDRip)，最初于 2020/05/15 发布，后于 2022/06/27 发布补种
+Comment: https://bangumi.moe/lite/torrent/5ebe646c306f1a0007d8638a
+Comment: https://dmhy.org/topics/view/604070_Jashin-chan_Dropkick_S2_01_12_GB_MP4_1920X1080.html
+Comment: 
+Comment: 
+Comment: sommio 更改记录&注释
+Comment: 「啊 佩可拉太人」->「啊 佩可拉大人」[1]
+Comment: 「你明自吗」->「你明白吗」[2]
+Comment: 「明关给钱啊」->「明天给钱啊」[3]
+Comment: 「还发生过这样的事呵」->「还发生过这样的事啊」[4]
+Comment:
+Comment: 看起来像错漏但实际上不是
+Comment: 「把这个7I1的面包放到仝家」[5]
+Comment: 「为什么仝家会有7I1的面包」[6]
+Comment: 
+Comment: [1]https://imgur.com/HLmk39F
+Comment: [2]https://imgur.com/KKEO9nG
+Comment: [3]https://imgur.com/nCGKT1n
+Comment: [4]https://imgur.com/Im2VloK
+Comment: [5]https://imgur.com/pEwC6n5
+Comment: [6]https://imgur.com/ls6VVt6
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
