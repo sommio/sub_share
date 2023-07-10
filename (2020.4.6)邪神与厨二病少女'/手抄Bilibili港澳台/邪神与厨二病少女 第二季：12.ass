@@ -15,9 +15,9 @@ Video File: ../../../../../../../../HDD/HDD1/Video/Anime/[Lilith-Raws] Jashin-ch
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 81
-Active Line: 96
-Video Position: 9353
+Scroll Position: 6
+Active Line: 16
+Video Position: 14038
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,6 +35,13 @@ Dialogue: 0,0:00:50.97,0:00:52.76,Default,,0,0,0,,{\an8}大～蛇～丸～
 Dialogue: 0,0:06:39.19,0:06:43.61,Default,,0,0,0,,{\an8}我看不见 我看不见啊！
 Dialogue: 0,0:06:44.20,0:06:46.74,Default,,0,0,0,,{\an8}还是看不见
 Dialogue: 0,0:07:10.89,0:07:12.26,Default,,0,0,0,,{\an8}(Milky Bell 细泽牧场)\N(邪神与厨二病少女联动店)
+Dialogue: 0,0:00:06.74,0:00:09.24,Default,,0,0,0,,-支笏湖特产姬鳟鱼(姬普) -支笏湖姬普鱼\N-又渣又可爱的魔界恶魔小邪神(CV.铃木爱奈)
+Dialogue: 0,0:00:06.74,0:00:09.24,Default,,0,0,0,,{\an8}欢迎来到千岁市\N(土木学会选奖土木遗产 -山线铁桥)(千岁 -北海道离天空最近的城市)
+Dialogue: 0,0:00:09.24,0:00:10.99,Default,,0,0,0,,{\an8}千岁 -北海道离天空最近的城市
+Dialogue: 0,0:04:50.90,0:04:52.90,Default,,0,0,0,,(贝特一周的伙食)
+Dialogue: 0,0:06:44.55,0:06:47.47,Default,,0,0,0,,-(印第安水车) -(源于北美 用于捕获沿川逆流而上的鲑鱼的设施)\N-(当有鲑鱼进入水车筐时 会因水力转动自动将鱼捕上岸)
+Dialogue: 0,0:07:08.99,0:07:10.20,Default,,0,0,0,,{\an8}*阿伊努族传统渔具
+Dialogue: 0,0:09:43.02,0:09:45.52,Default,,0,0,0,,(支笏湖游客中心)
 Dialogue: 0,0:00:15.56,0:00:17.10,Default,,0,0,0,,真美
 Dialogue: 0,0:00:17.56,0:00:21.44,Default,,0,0,0,,今天我们来到了北海道千岁市的支笏湖
 Dialogue: 0,0:00:29.03,0:00:31.74,Default,,0,0,0,,小邪神 这是哆隆隆布丁？
@@ -156,10 +163,17 @@ Dialogue: 0,0:08:27.80,0:08:30.93,Default,,0,0,0,,希望小邪神能显示一下
 Dialogue: 0,0:08:34.43,0:08:35.89,Default,,0,0,0,,多谢惠顾
 Dialogue: 0,0:08:36.52,0:08:38.23,Default,,0,0,0,,被逼着给所有人都买了
 Dialogue: 0,0:08:39.14,0:08:40.89,Default,,0,0,0,,逛下一处吧
+Dialogue: 0,0:08:41.88,0:08:43.54,Default,,0,0,0,,基乌斯周提墓群
+Dialogue: 0,0:08:43.71,0:08:46.34,Default,,0,0,0,,据说正在努力申报世界遗产
 Dialogue: 0,0:08:48.53,0:08:52.20,Default,,0,0,0,,基乌斯周提墓群是绳文时代后期建造的墓
 Dialogue: 0,0:08:52.32,0:08:54.41,Default,,0,0,0,,-绳文 -去下一处吧
 Dialogue: 0,0:08:56.45,0:09:00.75,Default,,0,0,0,,然后这里就是今天的主要观光地支笏湖
-Dialogue: 0,0:09:02.88,0:09:20.02,Default,,0,0,0,,支笏湖
+Dialogue: 0,0:09:02.94,0:09:06.65,Default,,0,0,0,,这支笏湖是日本第二大破火山口湖
+Dialogue: 0,0:09:06.73,0:09:09.24,Default,,0,0,0,,湖深也是日本第二
+Dialogue: 0,0:09:09.24,0:09:10.45,Default,,0,0,0,,而水质
+Dialogue: 0,0:09:10.45,0:09:13.62,Default,,0,0,0,,本来连续11年第一名的水质现在也是第二
+Dialogue: 0,0:09:13.95,0:09:16.29,Default,,0,0,0,,你们知道这代表什么吗
+Dialogue: 0,0:09:16.54,0:09:19.87,Default,,0,0,0,,怎么样  支笏湖简直是日本最强吧
 Dialogue: 0,0:09:25.02,0:09:25.77,Default,,0,0,0,,有小艇
 Dialogue: 0,0:09:25.77,0:09:26.44,Default,,0,0,0,,有小艇
 Dialogue: 0,0:09:26.44,0:09:27.69,Default,,0,0,0,,好像很有趣
