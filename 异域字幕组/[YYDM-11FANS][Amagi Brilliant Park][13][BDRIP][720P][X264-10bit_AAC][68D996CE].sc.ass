@@ -41,9 +41,25 @@ Style: LOGO2,Microsoft YaHei,27,&H00FFFFFF,&H000000FF,&HFFB834EC,&HFFB834EC,-1,0
 Style: ED,HGSoeiKakupoptai,43,&H003DFFED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: ED - cn,迷你简汉真广标,43,&H1CD65B99,&H000000FF,&H00F7DDCA,&H00F7DDCA,0,0,0,0,100,100,0,0,1,2,2,3,10,10,10,1
 Style: cmd-black2,@Microsoft YaHei,34,&H00000000,&H000000FF,&HE6000000,&HEE000000,0,0,0,0,100,100,0,1,1,2,2,2,10,10,10,1
+Style: zhengwen-sommio,Oyuan ZhunBig,43,&H00FFFFFF,&H000000FF,&H27A723A0,&H35000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: title2-sommio,Microsoft YaHei,90,&H05FFFFFF,&H000000FF,&H91000000,&HA6000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:24:01.09,0:24:10.68,title2-sommio,,0,0,0,,{\fad(1000,0)\pos(642,535)}第14話\n\n\n\n\n\n\n没有悠闲的时间！
+Dialogue: 0,0:23:41.49,0:23:44.16,zhengwen-sommio,,0,0,0,,探险！发现！游乐设施！！
+Dialogue: 0,0:23:44.16,0:23:46.49,zhengwen-sommio,,0,0,0,,今天要介绍的是「奶油古董店」
+Dialogue: 0,0:23:46.49,0:23:48.45,zhengwen-sommio,,0,0,0,,等一下 这是最后一回了吧
+Dialogue: 0,0:23:48.45,0:23:50.25,zhengwen-sommio,,0,0,0,,还有这个「NO IMAGE」是什么
+Dialogue: 0,0:23:50.25,0:23:51.46,zhengwen-sommio,,0,0,0,,别在意
+Dialogue: 0,0:23:51.46,0:23:54.33,zhengwen-sommio,,0,0,0,,「奶油古董店」充满梦想的商店
+Dialogue: 0,0:23:54.33,0:23:56.13,zhengwen-sommio,,0,0,0,,大家都喜欢的「奶油古董店」
+Dialogue: 0,0:23:56.13,0:23:57.54,zhengwen-sommio,,0,0,0,,不用重复那么多遍吧
+Dialogue: 0,0:23:57.54,0:23:59.59,zhengwen-sommio,,0,0,0,,大家都来的「奶油古董店」
+Dialogue: 0,0:23:59.59,0:24:02.42,zhengwen-sommio,,0,0,0,,哦 是什么宣传吧
+Dialogue: 0,0:24:02.42,0:24:05.01,zhengwen-sommio,,0,0,0,,嗯 请多关照「奶油古董店」
+Dialogue: 0,0:24:05.01,0:24:07.43,zhengwen-sommio,,0,0,0,,虽然我也不知道是什么商店
+Dialogue: 0,0:24:07.43,0:24:09.52,zhengwen-sommio,,0,0,0,,你去了解一下啊！
 Dialogue: 0,0:03:34.97,0:03:44.94,stuff,,0,0,0,,翻译：Licia，某Key，05  校译：塔哔哔   时间轴：格子   后期：果冻
 Dialogue: 0,0:03:49.67,0:04:02.01,stuff,,0,0,0,Banner;3;0;50,{\fad(200,200)\blur6\be10}本片字幕由异域字幕组(http://www.yyman.cn)制作,仅供试看之用,请在24小时内删除,如果喜欢本作品,请购买并支持正版!如因私自散布造成的法律问题,本字幕组恕不负责。
 Dialogue: 0,0:00:13.74,0:00:16.70,zhengwen,,0,0,0,,从梦想王国 红枫大陆而来的
