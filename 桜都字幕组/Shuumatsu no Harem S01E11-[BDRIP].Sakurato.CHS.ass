@@ -10,19 +10,33 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
-Script Updated By: 大伯
-Update Details: 对话样式修正
-
-[Aegisub Project Garbage]
-Last Style Storage: 10 harem
-Audio File: ../[Shuumatsu no Harem][11][BDRIP][1080P][H264_FLAC].mkv
-Video File: ../[Shuumatsu no Harem][11][BDRIP][1080P][H264_FLAC].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 458
-Active Line: 37
-Video Position: 3052
+Script Updated By: 大伯@bbs.acgrip.com
+Update Details: 22:11.89 处样式「OP-CN」->「Sub-CN」
+Comment: 原始字幕出自 7³ACG x 桜都字幕组于 2022/08/18 发布的 BDRip repack 简繁内封
+Comment: 此字幕经过大伯@bbs.acgrip.com 和 sommio 修改, 并非原档转载
+Comment: https://dmhy.org/topics/view/610203_7_ACG_x_Shuumatsu_no_Harem_01-11_BDrip_1080p_x265_FLAC_repack.html
+Comment:
+Comment: 
+Comment: 大伯@bbs.acgrip.com 修改
+Comment: https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=9367&pid=93958&fromuid=33783
+Comment: 
+Comment: 本人发现第 11 话 22:11 处的字幕在 v2 版本中的正文字幕被换成了 OP 字幕, 我反复查证后认为此为意外
+Comment: 应该与第一版中此句位于正文字幕一致, 所以本人将其修改为正文字幕中
+Comment: https://imgur.com/GPR2guz
+Comment: 
+Comment: 
+Comment: sommio 修改记录
+Comment: 
+Comment: 基于前者修改, 虽然他只发布了简中字幕修改, 但原始繁体本身为「繁化姬-台湾化」转换, 因此我以同样的方式机器转换了一份繁体字幕
+Comment: 包含 11 处屏幕字对帧修正, 及 2 处正文对话相关修正
+Comment: 
+Comment: EP02 屏幕字 #155~#157 提前 2 帧, #248~250 提前 3 帧
+Comment: EP03 #2 屏幕字重轴
+Comment: EP04 屏幕字 #1 提前 2 帧, #358~#359, #361, #366 重轴
+Comment: EP06 屏幕字 #3 重轴. 对话 #22 移除 {\pos(134,916)}
+Comment: EP07 屏幕字 #1 重轴
+Comment: EP09 对话 「拜访谷口小姐才来到庆们市」->「拜访谷口小姐才来到庆门市」
+Comment: EP10 屏幕字 #2 & #154~#155 重轴
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
