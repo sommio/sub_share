@@ -6,6 +6,16 @@ ScriptType: v4.00+
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Audio File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [02][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [02][Ma10p_1080p][x265_flac].mkv
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 29
+Active Line: 45
+Video Position: 3413
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,7 +70,7 @@ Dialogue: 0,0:02:07.40,0:02:10.00,Default,,0,0,0,,它是追寻人类和世界存
 Dialogue: 0,0:02:10.00,0:02:12.13,Default,,0,0,0,,抱歉 我是开玩笑的
 Dialogue: 0,0:02:13.85,0:02:16.29,Default,,0,0,0,,魔术可是很有用的
 Dialogue: 0,0:02:16.72,0:02:18.12,Default,,0,0,0,,如果作为杀人工具来说的话
-Dialogue: 0,0:02:19.99,0:02:22.41,Title,,0,0,0,,{\blur2\pos(1030,600)\fad(0,400)}一点点微弱的干劲
+Dialogue: 0,0:02:19.99,0:02:22.37,Title,,0,0,0,,{\blur2\pos(1030,600)\fad(0,400)}一点点微弱的干劲
 Dialogue: 0,0:02:22.72,0:02:23.47,Default,,0,0,0,,知道吗
 Dialogue: 0,0:02:23.61,0:02:25.67,Default,,0,0,0,,利用剑术杀一个人的时间
 Dialogue: 0,0:02:25.67,0:02:28.03,Default,,0,0,0,,用魔术却可以杀几十人
@@ -429,5 +439,3 @@ Dialogue: 0,0:23:13.28,0:23:18.51,Default,,0,0,0,,我就用传说中的魔术 �
 Dialogue: 0,0:23:19.06,0:23:26.65,Default,,0,0,0,,上咯 魔法…拳击
 Dialogue: 0,0:23:33.93,0:23:35.15,Default,,0,0,0,,你这不是用踢的吗
 Dialogue: 0,0:23:36.59,0:23:38.73,Default,,0,0,0,,这就是那微妙的魔术感啊
-
-[Aegisub Project Garbage]

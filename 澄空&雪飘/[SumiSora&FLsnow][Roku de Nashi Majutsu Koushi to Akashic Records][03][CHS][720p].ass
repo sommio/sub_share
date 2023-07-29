@@ -6,6 +6,15 @@ ScriptType: v4.00+
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Audio File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [03][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [03][Ma10p_1080p][x265_flac].mkv
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Active Line: 12
+Video Position: 851
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +38,7 @@ Dialogue: 0,0:00:15.03,0:00:19.66,Default,,0,0,0,,我知道 我没有教书育�
 Dialogue: 0,0:00:20.29,0:00:22.83,Default,,0,0,0,,我的这双手太过肮脏了
 Dialogue: 0,0:00:23.33,0:00:25.40,Default,,0,0,0,,不 不是这个
 Dialogue: 0,0:00:28.42,0:00:30.22,Default,,0,0,0,,您的裤子 掉了
-Dialogue: 0,0:00:32.00,0:00:35.49,Title,,0,0,0,,{\blur2\fad(0,450)\pos(970.8,571.2)}愚者和死神
+Dialogue: 0,0:00:32.01,0:00:35.52,Title,,0,0,0,,{\blur2\fad(0,450)\pos(970.8,571.2)}愚者和死神
 Dialogue: 0,0:00:36.01,0:00:38.36,Default,,0,0,0,,露米娅被另外一个男人带走了？
 Dialogue: 0,0:00:39.72,0:00:40.68,Default,,0,0,0,,为什么要带走那家伙…
 Dialogue: 0,0:00:41.30,0:00:42.47,Default,,0,0,0,,我也不清楚
@@ -1129,5 +1138,3 @@ Dialogue: 0,0:23:25.45,0:23:27.69,jp,,0,0,0,fx,{\pos(690,35)\3a&ff&\1c&HF6A24C&\
 Dialogue: 0,0:23:27.69,0:23:28.40,jp,,0,0,0,fx,{\pos(672,35)\an5\1c&HF8F8F8&\bord0\blur0\t(-28,122,\fsc180\alpha&ff&\1c&ffffff&\3c&H050404&\blur2)}o
 Dialogue: 0,0:23:27.69,0:23:28.40,jp,,0,0,0,fx,{\pos(693,35)\an5\1c&HF8F8F8&\bord0\blur0\t(-7,143,\fsc180\alpha&ff&\1c&ffffff&\3c&H050404&\blur2)}u
 Dialogue: 0,0:23:27.69,0:23:28.40,jp,,0,0,0,fx,{\pos(712,35)\an5\1c&HF8F8F8&\bord0\blur0\t(12,162,\fsc180\alpha&ff&\1c&ffffff&\3c&H050404&\blur2)}t
-
-[Aegisub Project Garbage]

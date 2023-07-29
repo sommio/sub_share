@@ -6,6 +6,16 @@ ScriptType: v4.00+
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Audio File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [12][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [12][Ma10p_1080p][x265_flac].mkv
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 366
+Active Line: 375
+Video Position: 33931
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -390,6 +400,4 @@ Dialogue: 0,0:23:11.32,0:23:13.22,Default,,0,0,0,,無論失敗多少次我都會
 Dialogue: 0,0:23:17.43,0:23:19.72,Default,,0,0,0,,沒錯 無論多少次
 Dialogue: 0,0:23:29.66,0:23:31.61,Default,,0,0,0,,很好 那麼
 Dialogue: 0,0:23:32.65,0:23:34.03,Default,,0,0,0,,開始上課囉
-Dialogue: 0,0:23:35.10,0:23:40.98,Title,,0,0,0,,{\blur20\t(0,680),\blur0\pos(700,490)\fad(800,0)}尋找到的歸處
-
-[Aegisub Project Garbage]
+Dialogue: 0,0:23:35.19,0:23:40.98,Title,,0,0,0,,{\blur20\t(0,680),\blur0\pos(700,490)\fad(800,0)}尋找到的歸處

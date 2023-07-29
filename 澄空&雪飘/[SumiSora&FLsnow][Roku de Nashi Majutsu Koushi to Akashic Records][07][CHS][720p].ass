@@ -6,6 +6,16 @@ ScriptType: v4.00+
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Audio File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [07][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [07][Ma10p_1080p][x265_flac].mkv
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 747
+Active Line: 759
+Video Position: 3440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -782,7 +792,7 @@ Dialogue: 0,0:02:03.32,0:02:05.56,jp,,0,0,0,fx,{\pos(690,35)\3a&ff&\1c&HF6A24C&\
 Dialogue: 0,0:02:05.56,0:02:06.27,jp,,0,0,0,fx,{\pos(672,35)\an5\1c&HF8F8F8&\bord0\blur0\t(-28,122,\fsc180\alpha&ff&\1c&ffffff&\3c&H050404&\blur2)}o
 Dialogue: 0,0:02:05.56,0:02:06.27,jp,,0,0,0,fx,{\pos(693,35)\an5\1c&HF8F8F8&\bord0\blur0\t(-7,143,\fsc180\alpha&ff&\1c&ffffff&\3c&H050404&\blur2)}u
 Dialogue: 0,0:02:05.56,0:02:06.27,jp,,0,0,0,fx,{\pos(712,35)\an5\1c&HF8F8F8&\bord0\blur0\t(12,162,\fsc180\alpha&ff&\1c&ffffff&\3c&H050404&\blur2)}t
-Dialogue: 0,0:02:18.99,0:02:23.49,Title,,0,0,0,,{\blur2\pos(160,570)\fad(0,800)}星降之海
+Dialogue: 0,0:02:18.99,0:02:23.50,Title,,0,0,0,,{\blur2\pos(160,570)\fad(0,800)}星降之海
 Dialogue: 0,0:02:27.72,0:02:29.02,Default,,0,0,0,,听说要特训
 Dialogue: 0,0:02:29.20,0:02:30.68,Default,,0,0,0,,我还以为是提高魔力
 Dialogue: 0,0:02:30.83,0:02:33.76,Default,,0,0,0,,或者是学习新咒文之类的
@@ -4007,5 +4017,3 @@ Dialogue: 1,0:23:40.02,0:23:40.83,edj0,,0,0,0,fx,{\shad0\bord2\an5\blur4\fscx10\
 Dialogue: 1,0:23:40.02,0:23:40.86,edj0,,0,0,0,fx,{\shad0\bord2\an5\blur4\fscx10\fscy10\1c&HFFFFFF&\3c&HD798B4&\move(906,40,853,80)\org(500,40)\t(0,250,0.5,\fr6)\t(250,700,2,\fr-2)\fad(0,100)\p1}!star[math.random(3)]!
 Dialogue: 1,0:23:40.02,0:23:40.89,edj0,,0,0,0,fx,{\shad0\bord2\an5\blur4\fscx10\fscy10\1c&HFFFFFF&\3c&HD798B4&\move(910,40,916,80)\org(500,40)\t(0,250,0.5,\fr8)\t(250,700,2,\fr-2)\fad(0,100)\p1}m 3 3 b 6 -1 13 -1 17 3 b 20 7 20 13 17 17 b 14 21 6 21 3 17 b 0 13 0 7 3 3
 Dialogue: 4,0:23:40.11,0:23:40.11,edj0,,0,0,0,fx,{\an5\pos(900,40)\fad(0,300)}...
-
-[Aegisub Project Garbage]

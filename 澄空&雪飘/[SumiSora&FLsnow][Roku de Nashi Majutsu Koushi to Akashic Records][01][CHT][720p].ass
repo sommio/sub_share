@@ -6,6 +6,16 @@ ScriptType: v4.00+
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Audio File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [01][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../../../../../HDD/HDD1/Video/Anime/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [Ma10p_1080p]/[VCB-Studio] Rokudenashi Majutsu Koushi to Akashic Records [01][Ma10p_1080p][x265_flac].mkv
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Scroll Position: 362
+Active Line: 370
+Video Position: 34070
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +138,7 @@ Dialogue: 0,0:08:08.74,0:08:10.74,Default,,0,0,0,,硬要說的話連第五、六
 Dialogue: 0,0:08:10.74,0:08:11.63,Default,,0,0,0,,真是難以置信
 Dialogue: 0,0:08:12.56,0:08:16.39,Default,,0,0,0,,他有能力教導我們那些優秀的學生嗎
 Dialogue: 0,0:08:16.75,0:08:19.19,Default,,0,0,0,,該不會用自習來敷衍了事吧
-Dialogue: 0,0:08:28.31,0:08:30.11,staff,,0,0,0,,{\fs80\bord0\move(540,20,600,60,0,820)}自習
+Dialogue: 0,0:08:28.32,0:08:30.11,staff,,0,0,0,,{\fs80\bord0\move(540,20,600,60,0,820)}自習
 Dialogue: 0,0:08:32.45,0:08:35.15,Default,,0,0,0,,今天的課我們就自習吧
 Dialogue: 0,0:08:35.67,0:08:36.52,Default,,0,0,0,,好睏
 Dialogue: 0,0:08:41.03,0:08:42.64,Default,,0,0,0,,給我等一下
@@ -278,12 +288,12 @@ Dialogue: 0,0:16:52.55,0:16:55.00,Default,,0,0,0,,「命其歸於明理之圓環
 Dialogue: 0,0:16:55.00,0:16:57.03,Default,,0,0,0,,「萬象之理紡織乖離之緣」
 Dialogue: 0,0:17:05.31,0:17:07.59,Default,,0,0,0,,下一次可不會再打偏了
 Dialogue: 0,0:17:15.55,0:17:17.75,Default,,0,0,0,,那麼 下午的課開始了
-Dialogue: 0,0:17:17.76,0:17:19.64,staff,,0,0,0,,{\fs80\pos(620,20)\bord0}自習
+Dialogue: 0,0:17:17.77,0:17:19.73,staff,,0,0,0,,{\fs80\pos(620,20)\bord0}自習
 Dialogue: 0,0:17:17.99,0:17:19.18,Default,,0,0,0,,又來啊
-Dialogue: 0,0:17:19.72,0:17:22.43,staff,,0,0,0,,{\fs80\pos(620,60)\bord0}zì xí
+Dialogue: 0,0:17:19.81,0:17:22.56,staff,,0,0,0,,{\fs80\pos(620,60)\bord0}zì xí
 Dialogue: 0,0:17:19.87,0:17:21.77,Default,,0,0,0,,{\an8}好 下午第二節課
 Dialogue: 0,0:17:20.93,0:17:22.43,Default,,0,0,0,,這下連文字都這麼隨便
-Dialogue: 0,0:17:22.56,0:17:24.77,staff,,0,0,0,,{\fs80\bord0\pos(620,20)}zì
+Dialogue: 0,0:17:22.65,0:17:24.90,staff,,0,0,0,,{\fs80\bord0\pos(620,20)}zì
 Dialogue: 0,0:17:22.86,0:17:24.49,Default,,0,0,0,,第三節…
 Dialogue: 0,0:17:27.65,0:17:29.63,Default,,0,0,0,,雖然我不太想說
 Dialogue: 0,0:17:29.91,0:17:31.30,Default,,0,0,0,,那就別說好了
@@ -385,7 +395,5 @@ Dialogue: 0,0:23:11.09,0:23:13.38,Default,,0,0,0,,比起這個 你挺不錯的�
 Dialogue: 0,0:23:13.60,0:23:18.03,Default,,0,0,0,,今天我們的勝負相差無幾 就算是平手放你一馬
 Dialogue: 0,0:23:20.83,0:23:21.63,Default,,0,0,0,,那個
 Dialogue: 0,0:23:22.39,0:23:24.66,Default,,0,0,0,,但是 沒有下一次了 再見
-Dialogue: 0,0:23:36.01,0:23:40.97,Title,,0,0,0,,{\pos(680,500)}完全沒有幹勁的不正經講師
+Dialogue: 0,0:23:36.02,0:23:41.02,Title,,0,0,0,,{\pos(680,500)}完全沒有幹勁的不正經講師
 Dialogue: 0,0:23:37.16,0:23:39.35,Default,,0,0,0,,真是看走眼了啊
-
-[Aegisub Project Garbage]
