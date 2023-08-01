@@ -12,6 +12,10 @@ Timer: 100.0000
 YCbCr Matrix: TV.709
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+Script Updated By: sommio
+Update Details: 增补插入曲「約束」未完成版
+Comment: 原始字幕来自[野生菌字幕组&届恋字幕组]于 2022/03/10 发布的 BDRip，仅 I. 增补插入曲翻译，无其它修改
+Comment: 原始链接 https://share.dmhy.org/topics/view/594638_BanG_Dream%21_Episode_of_Roselia_BDRip_1080p_HEVC-10bit_FLAC.html
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -37,10 +41,44 @@ Style: OPCN 2,方正潮流体 简繁,58,&H00FFFFFF,&H00000000,&H000B297D,&H00222
 Style: OPCN 2B,方正潮流体 简繁,58,&H00FFFFFF,&H00000000,&H000B297D,&H00222222,-1,0,0,0,100,100,4,0,1,4,0,3,0,10,20,1
 Style: EDJP P,FOT-Seurat ProN DB,55,&H00FFFFFF,&HFF000000,&H00F7CD57,&HFF222222,0,0,0,0,100,100,0,0,1,4,0,8,20,20,12,1
 Style: EDCN P,华康圆体W7-A,46,&H00FFFFFF,&H00000000,&H00F7CD57,&H00222222,-1,0,0,0,100,100,0,0,1,4,0,2,20,20,20,1
+Style: IN-sommio,腾祥嘉丽大圆GB18030,60,&H00FFFFFF,&HF0000000,&H00A70842,&HF0000000,0,0,0,0,100,100,0,0,1,2.5,2,7,20,10,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,……{防止內封bug}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,增补插入曲「約束」未完成版
+Dialogue: 0,1:09:47.81,1:09:57.23,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}正因為有著無法退讓的容身之處
+Dialogue: 0,1:09:58.55,1:10:08.01,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}所以每當燒燬逃避的藉口時 才能變得更強
+Dialogue: 0,1:10:08.01,1:10:11.94,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}flower of life
+Dialogue: 0,1:10:11.94,1:10:17.44,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}沐浴於暖陽之中
+Dialogue: 0,1:10:17.44,1:10:21.19,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}flower of life
+Dialogue: 0,1:10:21.19,1:10:29.90,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}白色三葉草終將重獲新生
+Dialogue: 0,1:10:30.78,1:10:34.19,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}化為有形之物
+Dialogue: 0,1:10:35.82,1:10:38.02,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}在前進的路上
+Dialogue: 0,1:10:38.02,1:10:45.03,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}或許辛苦會比幸福更多
+Dialogue: 0,1:10:45.03,1:10:49.88,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}即使如此(Oh) 也沒關係(Oh)
+Dialogue: 0,1:10:49.88,1:10:53.23,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}我會陪在你身旁
+Dialogue: 0,1:10:53.23,1:11:03.13,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}將約定之景永刻心中
+Dialogue: 0,1:11:03.37,1:11:10.22,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}走上通往未來之路
+Dialogue: 0,1:11:10.22,1:11:13.45,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}當光芒照亮王座
+Dialogue: 0,1:11:14.86,1:11:18.00,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}直到這一天到来
+Dialogue: 0,1:11:19.15,1:11:23.43,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur10\3c&HCF346C&}我們絕不罷休
+Dialogue: 1,1:09:47.81,1:09:57.23,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}正因為有著無法退讓的容身之處
+Dialogue: 1,1:09:58.55,1:10:08.01,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}所以每當燒燬逃避的藉口時 才能變得更強
+Dialogue: 1,1:10:08.01,1:10:11.94,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}flower of life
+Dialogue: 1,1:10:11.94,1:10:17.44,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}沐浴於暖陽之中
+Dialogue: 1,1:10:17.44,1:10:21.19,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}flower of life
+Dialogue: 1,1:10:21.19,1:10:29.90,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}白色三葉草終將重獲新生
+Dialogue: 1,1:10:30.78,1:10:34.19,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}化為有形之物
+Dialogue: 1,1:10:35.82,1:10:38.02,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}在前進的路上
+Dialogue: 1,1:10:38.02,1:10:45.03,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}或許辛苦會比幸福更多
+Dialogue: 1,1:10:45.03,1:10:49.88,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}即使如此(Oh) 也沒關係(Oh)
+Dialogue: 1,1:10:49.88,1:10:53.23,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}我會陪在你身旁
+Dialogue: 1,1:10:53.23,1:11:03.13,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}將約定之景永刻心中
+Dialogue: 1,1:11:03.37,1:11:10.22,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}走上通往未來之路
+Dialogue: 1,1:11:10.22,1:11:13.45,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}當光芒照亮王座
+Dialogue: 1,1:11:14.86,1:11:18.00,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}直到這一天到来
+Dialogue: 1,1:11:19.15,1:11:23.43,IN-sommio,,0,0,0,,{\fad(200,200)\bord5\blur0.6\3c&HCF346C&}我們絕不罷休
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,LYRIC
 Dialogue: 0,0:09:55.47,0:10:00.70,Default,,0,0,0,,{\fad(200,200)\fnFOT-Skip Std B\3c&HCF346C&\blur5\fs50\pos(960,1050)}涙を流すたびに　もっと綺麗になる
 Dialogue: 0,0:10:00.70,0:10:06.98,Default,,0,0,0,,{\fad(200,200)\fnFOT-Skip Std B\3c&HCF346C&\blur5\fs50\pos(960,1050)}雨上がり　夢はきらめくの
